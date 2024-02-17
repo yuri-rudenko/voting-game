@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body, html {
+    height: 100%;
+    overflow: hidden;
+}
+
+.container .playing {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+}
+.container .top {
+    z-index: 10;
+    top: -50%;
+}
+.container .bottom {
+    z-index: 10;
+    bottom: -50%;
+}
+.container .active-divs .top-active {
+    z-index: 1;
+    top: 0%;
+    
+}
+.container .active-divs .bottom-active {
+    z-index: 1;
+    top: 50%;
+}
+
+.top-anim {
+    animation: top-anim 1s;
+}
+
+.bottom-anim {
+    animation: bottom-anim 1s;
+}
+
+.background-container {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.character-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    backdrop-filter: blur(10px);
+}
+.character-container .top {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.9);
+    padding-bottom: 5px;
+    width: 100%;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.character-container .top .name {
+    font-size: 30px;
+    font-weight: bold;
+}
+.img-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.character-container img {
+    border: 4px solid black;
+    border-radius: 4px;
+    height: 250px;
+}
+
+
+@keyframes top-anim {
+    0% {top: -50%}
+    70% {top: 0%}
+    100% {top: 0%}
+} 
+
+@keyframes bottom-anim {
+    0% {bottom: -50%}
+    70% {bottom: 0%}
+    100% {bottom: 0%}
+} 

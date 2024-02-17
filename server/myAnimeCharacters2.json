@@ -1,0 +1,5157 @@
+[
+    {
+        "name": "Lelouch Lamperouge",
+        "img": "https://cdn.myanimelist.net/images/characters/8/406163.jpg",
+        "title": "Code Geass: Hangyaku no Lelouch"
+    },
+    {
+        "name": "Levi",
+        "img": "https://cdn.myanimelist.net/images/characters/2/241413.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Luffy Monkey D.",
+        "img": "https://cdn.myanimelist.net/images/characters/9/310307.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "L Lawliet",
+        "img": "https://cdn.myanimelist.net/images/characters/10/249647.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Zoro Roronoa",
+        "img": "https://cdn.myanimelist.net/images/characters/3/100534.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Light Yagami",
+        "img": "https://cdn.myanimelist.net/images/characters/6/63870.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Killua Zoldyck",
+        "img": "https://cdn.myanimelist.net/images/characters/2/327920.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Rintarou Okabe",
+        "img": "https://cdn.myanimelist.net/images/characters/6/122643.jpg",
+        "title": "Steins;Gate"
+    },
+    {
+        "name": "Edward Elric",
+        "img": "https://cdn.myanimelist.net/images/characters/9/72533.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/284121.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Guts",
+        "img": "https://cdn.myanimelist.net/images/characters/9/347984.jpg",
+        "title": "Kenpuu Denki Berserk"
+    },
+    {
+        "name": "Gintoki Sakata",
+        "img": "https://cdn.myanimelist.net/images/characters/15/241479.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Eren Yeager",
+        "img": "https://cdn.myanimelist.net/images/characters/10/216895.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Kurisu Makise",
+        "img": "https://cdn.myanimelist.net/images/characters/12/492885.jpg",
+        "title": "Steins;Gate"
+    },
+    {
+        "name": "Itachi Uchiha",
+        "img": "https://cdn.myanimelist.net/images/characters/9/284122.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Satoru Gojou",
+        "img": "https://cdn.myanimelist.net/images/characters/15/422168.jpg",
+        "title": "Jujutsu Kaisen Official PVs"
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "img": "https://cdn.myanimelist.net/images/characters/9/215563.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Emilia",
+        "img": "https://cdn.myanimelist.net/images/characters/12/524543.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Hachiman Hikigaya",
+        "img": "https://cdn.myanimelist.net/images/characters/4/203555.jpg",
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    },
+    {
+        "name": "Ken Kaneki",
+        "img": "https://cdn.myanimelist.net/images/characters/9/251339.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Saitama",
+        "img": "https://cdn.myanimelist.net/images/characters/11/294388.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "img": "https://cdn.myanimelist.net/images/characters/7/284129.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Spike Spiegel",
+        "img": "https://cdn.myanimelist.net/images/characters/11/516853.jpg",
+        "title": "Cowboy Bebop"
+    },
+    {
+        "name": "Rem",
+        "img": "https://cdn.myanimelist.net/images/characters/9/311327.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Joseph Joestar",
+        "img": "https://cdn.myanimelist.net/images/characters/6/252863.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Megumin",
+        "img": "https://cdn.myanimelist.net/images/characters/14/349249.jpg",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    {
+        "name": "Hitagi Senjougahara",
+        "img": "https://cdn.myanimelist.net/images/characters/11/287902.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Kazuto Kirigaya",
+        "img": "https://cdn.myanimelist.net/images/characters/7/204821.jpg",
+        "title": "Sword Art Online"
+    },
+    {
+        "name": "Yato",
+        "img": "https://cdn.myanimelist.net/images/characters/3/328158.jpg",
+        "title": "Noragami"
+    },
+    {
+        "name": "Mai Sakurajima",
+        "img": "https://cdn.myanimelist.net/images/characters/2/366639.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Roy Mustang",
+        "img": "https://cdn.myanimelist.net/images/characters/11/510227.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Zero Two",
+        "img": "https://cdn.myanimelist.net/images/characters/10/352557.jpg",
+        "title": "Darling in the FranXX"
+    },
+    {
+        "name": "Arataka Reigen",
+        "img": "https://cdn.myanimelist.net/images/characters/16/308364.jpg",
+        "title": "Mob Psycho 100"
+    },
+    {
+        "name": "Violet Evergarden",
+        "img": "https://cdn.myanimelist.net/images/characters/9/345616.jpg",
+        "title": "Violet Evergarden"
+    },
+    {
+        "name": "Hisoka Morow",
+        "img": "https://cdn.myanimelist.net/images/characters/3/174561.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Osamu Dazai",
+        "img": "https://cdn.myanimelist.net/images/characters/5/307236.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Kiyotaka Ayanokouji",
+        "img": "https://cdn.myanimelist.net/images/characters/9/439784.jpg",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV"
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "img": "https://cdn.myanimelist.net/images/characters/3/512788.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Kamina",
+        "img": "https://cdn.myanimelist.net/images/characters/7/83946.jpg",
+        "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+        "name": "Shinobu Oshino",
+        "img": "https://cdn.myanimelist.net/images/characters/16/234167.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Saber",
+        "img": "https://cdn.myanimelist.net/images/characters/6/275276.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Taiga Aisaka",
+        "img": "https://cdn.myanimelist.net/images/characters/11/514086.jpg",
+        "title": "Toradora!"
+    },
+    {
+        "name": "Eikichi Onizuka",
+        "img": "https://cdn.myanimelist.net/images/characters/8/241475.jpg",
+        "title": "Great Teacher Onizuka"
+    },
+    {
+        "name": "Sanji",
+        "img": "https://cdn.myanimelist.net/images/characters/5/136769.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Asuna Yuuki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/262053.jpg",
+        "title": "Sword Art Online"
+    },
+    {
+        "name": "Yuno Gasai",
+        "img": "https://cdn.myanimelist.net/images/characters/5/280576.jpg",
+        "title": "Mirai Nikki"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "img": "https://cdn.myanimelist.net/images/characters/9/131317.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Koyomi Araragi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/148437.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Makima",
+        "img": "https://cdn.myanimelist.net/images/characters/4/489561.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Alucard",
+        "img": "https://cdn.myanimelist.net/images/characters/15/74607.jpg",
+        "title": "Hellsing"
+    },
+    {
+        "name": "Ichigo",
+        "img": "https://cdn.myanimelist.net/images/characters/5/473102.jpg",
+        "title": "Darling in the FranXX"
+    },
+    {
+        "name": "Asuka Langley Souryuu",
+        "img": "https://cdn.myanimelist.net/images/characters/12/79465.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Holo",
+        "img": "https://cdn.myanimelist.net/images/characters/15/319492.jpg",
+        "title": "Ookami to Koushinryou"
+    },
+    {
+        "name": "Gokuu Son",
+        "img": "https://cdn.myanimelist.net/images/characters/15/72546.jpg",
+        "title": "Dragon Ball"
+    },
+    {
+        "name": "Itsuki Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/5/437010.jpg",
+        "title": "5-toubun no Hanayome"
+    },
+    {
+        "name": "Erwin Smith",
+        "img": "https://cdn.myanimelist.net/images/characters/3/206431.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Askeladd",
+        "img": "https://cdn.myanimelist.net/images/characters/14/401940.jpg",
+        "title": "Vinland Saga"
+    },
+    {
+        "name": "C.C.",
+        "img": "https://cdn.myanimelist.net/images/characters/13/33815.jpg",
+        "title": "Code Geass: Hangyaku no Lelouch"
+    },
+    {
+        "name": "Thorfinn",
+        "img": "https://cdn.myanimelist.net/images/characters/9/309871.jpg",
+        "title": "Vinland Saga"
+    },
+    {
+        "name": "Kaguya Shinomiya",
+        "img": "https://cdn.myanimelist.net/images/characters/2/504723.jpg",
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Joutarou Kuujou",
+        "img": "https://cdn.myanimelist.net/images/characters/9/312302.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Shouto Todoroki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/332527.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Izuku Midoriya",
+        "img": "https://cdn.myanimelist.net/images/characters/7/299404.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Johan Liebert",
+        "img": "https://cdn.myanimelist.net/images/characters/4/316522.jpg",
+        "title": "Monster"
+    },
+    {
+        "name": "Tanjirou Kamado",
+        "img": "https://cdn.myanimelist.net/images/characters/6/386735.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Shigeo Kageyama",
+        "img": "https://cdn.myanimelist.net/images/characters/6/343344.jpg",
+        "title": "Mob Psycho 100"
+    },
+    {
+        "name": "Kaori Miyazono",
+        "img": "https://cdn.myanimelist.net/images/characters/14/269375.jpg",
+        "title": "Shigatsu wa Kimi no Uso"
+    },
+    {
+        "name": "Homura Akemi",
+        "img": "https://cdn.myanimelist.net/images/characters/16/526748.jpg",
+        "title": "Mahou Shoujo Madoka★Magica"
+    },
+    {
+        "name": "Rin Toosaka",
+        "img": "https://cdn.myanimelist.net/images/characters/2/270529.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Kurapika",
+        "img": "https://cdn.myanimelist.net/images/characters/4/174563.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Izaya Orihara",
+        "img": "https://cdn.myanimelist.net/images/characters/12/313152.jpg",
+        "title": "Durarara!!"
+    },
+    {
+        "name": "Houtarou Oreki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/308148.jpg",
+        "title": "Hyouka"
+    },
+    {
+        "name": "Yukino Yukinoshita",
+        "img": "https://cdn.myanimelist.net/images/characters/4/202721.jpg",
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    },
+    {
+        "name": "Marin Kitagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/10/459773.jpg",
+        "title": "Sono Bisque Doll wa Koi wo Suru"
+    },
+    {
+        "name": "Katsuki Bakugou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/299406.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Kusuo Saiki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/337932.jpg",
+        "title": "Saiki Kusuo no Ψ-nan (ONA)"
+    },
+    {
+        "name": "Rimuru Tempest",
+        "img": "https://cdn.myanimelist.net/images/characters/4/495795.jpg",
+        "title": "Tensei shitara Slime Datta Ken"
+    },
+    {
+        "name": "Natsu Dragneel",
+        "img": "https://cdn.myanimelist.net/images/characters/15/105542.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Sebastian Michaelis",
+        "img": "https://cdn.myanimelist.net/images/characters/6/44160.jpg",
+        "title": "Kuroshitsuji"
+    },
+    {
+        "name": "Senkuu Ishigami",
+        "img": "https://cdn.myanimelist.net/images/characters/8/380950.jpg",
+        "title": "Dr. Stone"
+    },
+    {
+        "name": "Revy",
+        "img": "https://cdn.myanimelist.net/images/characters/10/78871.jpg",
+        "title": "Black Lagoon"
+    },
+    {
+        "name": "Yuu Ishigami",
+        "img": "https://cdn.myanimelist.net/images/characters/7/372840.jpg",
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Gon Freecss",
+        "img": "https://cdn.myanimelist.net/images/characters/11/174517.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Power",
+        "img": "https://cdn.myanimelist.net/images/characters/7/494969.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Miku Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/15/507743.jpg",
+        "title": "5-toubun no Hanayome"
+    },
+    {
+        "name": "Kurumi Tokisaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/310255.jpg",
+        "title": "Date A Live"
+    },
+    {
+        "name": "Robin Nico",
+        "img": "https://cdn.myanimelist.net/images/characters/16/363700.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Law Trafalgar",
+        "img": "https://cdn.myanimelist.net/images/characters/10/258757.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Armin Arlert",
+        "img": "https://cdn.myanimelist.net/images/characters/8/220267.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Chika Fujiwara",
+        "img": "https://cdn.myanimelist.net/images/characters/2/371542.jpg",
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Kazuma Satou",
+        "img": "https://cdn.myanimelist.net/images/characters/8/301302.jpg",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    {
+        "name": "Vegeta",
+        "img": "https://cdn.myanimelist.net/images/characters/14/86185.jpg",
+        "title": "Dragon Ball GT"
+    },
+    {
+        "name": "Koro-sensei",
+        "img": "https://cdn.myanimelist.net/images/characters/9/277325.jpg",
+        "title": "Ansatsu Kyoushitsu: Jump Festa 2013 Special"
+    },
+    {
+        "name": "Rei Ayanami",
+        "img": "https://cdn.myanimelist.net/images/characters/11/314932.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Rias Gremory",
+        "img": "https://cdn.myanimelist.net/images/characters/5/150011.jpg",
+        "title": "High School DxD"
+    },
+    {
+        "name": "Subaru Natsuki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/315153.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Hange Zoë",
+        "img": "https://cdn.myanimelist.net/images/characters/15/208637.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Shinji Ikari",
+        "img": "https://cdn.myanimelist.net/images/characters/5/225177.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Takumi Usui",
+        "img": "https://cdn.myanimelist.net/images/characters/9/282968.jpg",
+        "title": "Kaichou wa Maid-sama!"
+    },
+    {
+        "name": "Rikka Takanashi",
+        "img": "https://cdn.myanimelist.net/images/characters/2/257273.jpg",
+        "title": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+        "name": "Erza Scarlet",
+        "img": "https://cdn.myanimelist.net/images/characters/12/492254.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Shouyou Hinata",
+        "img": "https://cdn.myanimelist.net/images/characters/11/243919.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Mikoto Misaka",
+        "img": "https://cdn.myanimelist.net/images/characters/5/378966.jpg",
+        "title": "Toaru Majutsu no Index"
+    },
+    {
+        "name": "Denji",
+        "img": "https://cdn.myanimelist.net/images/characters/3/492407.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Shikamaru Nara",
+        "img": "https://cdn.myanimelist.net/images/characters/3/131315.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Musashi Miyamoto",
+        "img": "https://cdn.myanimelist.net/images/characters/11/348750.jpg",
+        "title": "Vagabond"
+    },
+    {
+        "name": "Misato Katsuragi",
+        "img": "https://cdn.myanimelist.net/images/characters/15/515181.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Souma Yukihira",
+        "img": "https://cdn.myanimelist.net/images/characters/8/277503.jpg",
+        "title": "Shokugeki no Souma"
+    },
+    {
+        "name": "Hei",
+        "img": "https://cdn.myanimelist.net/images/characters/8/78781.jpg",
+        "title": "Darker than Black: Kuro no Keiyakusha"
+    },
+    {
+        "name": "Meruem",
+        "img": "https://cdn.myanimelist.net/images/characters/6/243861.jpg",
+        "title": "Hunter x Hunter (2011)"
+    },
+    {
+        "name": "Kiritsugu Emiya",
+        "img": "https://cdn.myanimelist.net/images/characters/4/474826.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Gyro Zeppeli",
+        "img": "https://cdn.myanimelist.net/images/characters/13/311885.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+    },
+    {
+        "name": "Shizuo Heiwajima",
+        "img": "https://cdn.myanimelist.net/images/characters/5/110552.jpg",
+        "title": "Durarara!!"
+    },
+    {
+        "name": "Karma Akabane",
+        "img": "https://cdn.myanimelist.net/images/characters/4/274913.jpg",
+        "title": "Ansatsu Kyoushitsu: Jump Festa 2013 Special"
+    },
+    {
+        "name": "Vash the Stampede",
+        "img": "https://cdn.myanimelist.net/images/characters/10/89607.jpg",
+        "title": "Trigun"
+    },
+    {
+        "name": "Ryuuko Matoi",
+        "img": "https://cdn.myanimelist.net/images/characters/5/454530.jpg",
+        "title": "Kill la Kill"
+    },
+    {
+        "name": "Mashiro Shiina",
+        "img": "https://cdn.myanimelist.net/images/characters/5/183449.jpg",
+        "title": "Sakura-sou no Pet na Kanojo"
+    },
+    {
+        "name": "Zenitsu Agatsuma",
+        "img": "https://cdn.myanimelist.net/images/characters/6/384253.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Yuuji Itadori",
+        "img": "https://cdn.myanimelist.net/images/characters/11/427601.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Ginko",
+        "img": "https://cdn.myanimelist.net/images/characters/14/303453.jpg",
+        "title": "Mushishi"
+    },
+    {
+        "name": "Haruhi Suzumiya",
+        "img": "https://cdn.myanimelist.net/images/characters/13/284136.jpg",
+        "title": "Suzumiya Haruhi no Yuuutsu"
+    },
+    {
+        "name": "Kana Arima",
+        "img": "https://cdn.myanimelist.net/images/characters/6/503733.jpg",
+        "title": "\"Oshi no Ko\""
+    },
+    {
+        "name": "Shouko Nishimiya",
+        "img": "https://cdn.myanimelist.net/images/characters/5/302315.jpg",
+        "title": "Koe no Katachi"
+    },
+    {
+        "name": "Chopper Tony Tony",
+        "img": "https://cdn.myanimelist.net/images/characters/3/100536.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Dio Brando",
+        "img": "https://cdn.myanimelist.net/images/characters/10/252875.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Izumi Miyamura",
+        "img": "https://cdn.myanimelist.net/images/characters/12/507110.jpg",
+        "title": "Hori-san to Miyamura-kun"
+    },
+    {
+        "name": "Gilgamesh",
+        "img": "https://cdn.myanimelist.net/images/characters/12/338672.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Nami",
+        "img": "https://cdn.myanimelist.net/images/characters/2/263249.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Mami Nanami",
+        "img": "https://cdn.myanimelist.net/images/characters/4/491833.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Simon",
+        "img": "https://cdn.myanimelist.net/images/characters/10/28353.jpg",
+        "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+        "name": "Sora",
+        "img": "https://cdn.myanimelist.net/images/characters/12/274345.jpg",
+        "title": "No Game No Life"
+    },
+    {
+        "name": "Roxy Migurdia",
+        "img": "https://cdn.myanimelist.net/images/characters/4/423670.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "Nezuko Kamado",
+        "img": "https://cdn.myanimelist.net/images/characters/15/384829.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Konata Izumi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/39208.jpg",
+        "title": "Lucky☆Star"
+    },
+    {
+        "name": "Kyou Souma",
+        "img": "https://cdn.myanimelist.net/images/characters/11/413334.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Jin-Woo Sung",
+        "img": "https://cdn.myanimelist.net/images/characters/8/531267.jpg",
+        "title": "Echo"
+    },
+    {
+        "name": "Griffith",
+        "img": "https://cdn.myanimelist.net/images/characters/9/326322.jpg",
+        "title": "Kenpuu Denki Berserk"
+    },
+    {
+        "name": "Inosuke Hashibira",
+        "img": "https://cdn.myanimelist.net/images/characters/3/329560.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Shiro",
+        "img": "https://cdn.myanimelist.net/images/characters/16/246723.jpg",
+        "title": "No Game No Life"
+    },
+    {
+        "name": "Sakuta Azusagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/11/398261.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Alphonse Elric",
+        "img": "https://cdn.myanimelist.net/images/characters/5/54265.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Anya Forger",
+        "img": "https://cdn.myanimelist.net/images/characters/4/457933.jpg",
+        "title": "Spy x Family"
+    },
+    {
+        "name": "Mugen",
+        "img": "https://cdn.myanimelist.net/images/characters/5/51569.jpg",
+        "title": "Samurai Champloo"
+    },
+    {
+        "name": "Nino Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/7/437011.jpg",
+        "title": "5-toubun no Hanayome"
+    },
+    {
+        "name": "Yami Sukehiro",
+        "img": "https://cdn.myanimelist.net/images/characters/6/338843.jpg",
+        "title": "Black Clover"
+    },
+    {
+        "name": "Tomoya Okazaki",
+        "img": "https://cdn.myanimelist.net/images/characters/6/508343.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Mio Akiyama",
+        "img": "https://cdn.myanimelist.net/images/characters/11/48547.jpg",
+        "title": "K-On!"
+    },
+    {
+        "name": "Usopp",
+        "img": "https://cdn.myanimelist.net/images/characters/16/188076.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Tobio Kageyama",
+        "img": "https://cdn.myanimelist.net/images/characters/13/417874.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Jiraiya",
+        "img": "https://cdn.myanimelist.net/images/characters/15/68618.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Kanade Tachibana",
+        "img": "https://cdn.myanimelist.net/images/characters/10/289337.jpg",
+        "title": "Angel Beats!"
+    },
+    {
+        "name": "Yui Hirasawa",
+        "img": "https://cdn.myanimelist.net/images/characters/6/326131.jpg",
+        "title": "K-On!"
+    },
+    {
+        "name": "Kenpachi Zaraki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/150265.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Asta",
+        "img": "https://cdn.myanimelist.net/images/characters/8/312836.jpg",
+        "title": "Black Clover: Jump Festa 2016 Special"
+    },
+    {
+        "name": "Lain Iwakura",
+        "img": "https://cdn.myanimelist.net/images/characters/10/78358.jpg",
+        "title": "Serial Experiments Lain"
+    },
+    {
+        "name": "Kyoujurou Rengoku",
+        "img": "https://cdn.myanimelist.net/images/characters/10/423443.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Frieren",
+        "img": "https://cdn.myanimelist.net/images/characters/7/525105.jpg",
+        "title": "Sousou no Frieren"
+    },
+    {
+        "name": "Aslan Jade Callenreese",
+        "img": "https://cdn.myanimelist.net/images/characters/9/370360.jpg",
+        "title": "Banana Fish"
+    },
+    {
+        "name": "Juuzou Suzuya",
+        "img": "https://cdn.myanimelist.net/images/characters/6/275843.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Rin Okumura",
+        "img": "https://cdn.myanimelist.net/images/characters/10/114367.jpg",
+        "title": "Ao no Exorcist"
+    },
+    {
+        "name": "Kisuke Urahara",
+        "img": "https://cdn.myanimelist.net/images/characters/15/149491.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Momonga",
+        "img": "https://cdn.myanimelist.net/images/characters/10/508402.jpg",
+        "title": "Overlord"
+    },
+    {
+        "name": "Tanya Degurechaff",
+        "img": "https://cdn.myanimelist.net/images/characters/2/512958.jpg",
+        "title": "Youjo Senki"
+    },
+    {
+        "name": "Lucy",
+        "img": "https://cdn.myanimelist.net/images/characters/5/44100.jpg",
+        "title": "Elfen Lied"
+    },
+    {
+        "name": "Yoshikage Kira",
+        "img": "https://cdn.myanimelist.net/images/characters/13/241133.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
+    },
+    {
+        "name": "Kurena Kukumila",
+        "img": "https://cdn.myanimelist.net/images/characters/9/453260.jpg",
+        "title": "86"
+    },
+    {
+        "name": "Gabi Braun",
+        "img": "https://cdn.myanimelist.net/images/characters/4/431018.jpg",
+        "title": "Shingeki no Kyojin: The Final Season"
+    },
+    {
+        "name": "Kosaki Onodera",
+        "img": "https://cdn.myanimelist.net/images/characters/9/241653.jpg",
+        "title": "Nisekoi"
+    },
+    {
+        "name": "Kenshin Himura",
+        "img": "https://cdn.myanimelist.net/images/characters/8/73810.jpg",
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen"
+    },
+    {
+        "name": "Ai Hayasaka",
+        "img": "https://cdn.myanimelist.net/images/characters/8/504012.jpg",
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Gaara",
+        "img": "https://cdn.myanimelist.net/images/characters/10/293375.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Hitori Gotou",
+        "img": "https://cdn.myanimelist.net/images/characters/8/491455.jpg",
+        "title": "Bocchi the Rock!"
+    },
+    {
+        "name": "Hinata Hyuuga",
+        "img": "https://cdn.myanimelist.net/images/characters/6/278736.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Madara Uchiha",
+        "img": "https://cdn.myanimelist.net/images/characters/12/450359.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Deishuu Kaiki",
+        "img": "https://cdn.myanimelist.net/images/characters/13/155489.jpg",
+        "title": "Nisemonogatari"
+    },
+    {
+        "name": "Tooru Oikawa",
+        "img": "https://cdn.myanimelist.net/images/characters/6/245977.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Akeno Himejima",
+        "img": "https://cdn.myanimelist.net/images/characters/3/150013.jpg",
+        "title": "High School DxD"
+    },
+    {
+        "name": "Akame",
+        "img": "https://cdn.myanimelist.net/images/characters/8/253095.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Yuu Nishinoya",
+        "img": "https://cdn.myanimelist.net/images/characters/14/238027.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Kagura",
+        "img": "https://cdn.myanimelist.net/images/characters/2/245933.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Howl",
+        "img": "https://cdn.myanimelist.net/images/characters/4/83512.jpg",
+        "title": "Howl no Ugoku Shiro"
+    },
+    {
+        "name": "Ryuk",
+        "img": "https://cdn.myanimelist.net/images/characters/10/59125.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Megumi Fushiguro",
+        "img": "https://cdn.myanimelist.net/images/characters/2/392689.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Shinobu Kochou",
+        "img": "https://cdn.myanimelist.net/images/characters/3/386591.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Nana Osaki",
+        "img": "https://cdn.myanimelist.net/images/characters/7/28355.jpg",
+        "title": "Nana"
+    },
+    {
+        "name": "Kyouko Hori",
+        "img": "https://cdn.myanimelist.net/images/characters/16/318188.jpg",
+        "title": "Hori-san to Miyamura-kun"
+    },
+    {
+        "name": "Ban",
+        "img": "https://cdn.myanimelist.net/images/characters/14/267813.jpg",
+        "title": "Nanatsu no Taizai"
+    },
+    {
+        "name": "Mayuri Shiina",
+        "img": "https://cdn.myanimelist.net/images/characters/4/131329.jpg",
+        "title": "Steins;Gate"
+    },
+    {
+        "name": "Ciel Phantomhive",
+        "img": "https://cdn.myanimelist.net/images/characters/9/253757.jpg",
+        "title": "Kuroshitsuji"
+    },
+    {
+        "name": "Yumeko Jabami",
+        "img": "https://cdn.myanimelist.net/images/characters/10/467162.jpg",
+        "title": "Kakegurui"
+    },
+    {
+        "name": "Tomoe",
+        "img": "https://cdn.myanimelist.net/images/characters/14/190494.jpg",
+        "title": "Kamisama Hajimemashita"
+    },
+    {
+        "name": "Esdeath",
+        "img": "https://cdn.myanimelist.net/images/characters/12/265641.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Chizuru Ichinose",
+        "img": "https://cdn.myanimelist.net/images/characters/4/484261.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Sousuke Aizen",
+        "img": "https://cdn.myanimelist.net/images/characters/16/73909.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Touka Kirishima",
+        "img": "https://cdn.myanimelist.net/images/characters/16/234699.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Death the Kid",
+        "img": "https://cdn.myanimelist.net/images/characters/3/102169.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Aqua",
+        "img": "https://cdn.myanimelist.net/images/characters/14/282523.jpg",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    {
+        "name": "Giyuu Tomioka",
+        "img": "https://cdn.myanimelist.net/images/characters/16/408043.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Kento Nanami",
+        "img": "https://cdn.myanimelist.net/images/characters/3/427139.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Chitoge Kirisaki",
+        "img": "https://cdn.myanimelist.net/images/characters/7/241651.jpg",
+        "title": "Nisekoi"
+    },
+    {
+        "name": "Sukuna Ryoumen",
+        "img": "https://cdn.myanimelist.net/images/characters/6/431152.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Nagisa Furukawa",
+        "img": "https://cdn.myanimelist.net/images/characters/3/300961.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Allen Walker",
+        "img": "https://cdn.myanimelist.net/images/characters/9/72171.jpg",
+        "title": "D.Gray-man"
+    },
+    {
+        "name": "Ace Portgas D.",
+        "img": "https://cdn.myanimelist.net/images/characters/2/72220.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Accelerator",
+        "img": "https://cdn.myanimelist.net/images/characters/8/207883.jpg",
+        "title": "Toaru Majutsu no Index"
+    },
+    {
+        "name": "Motoko Kusanagi",
+        "img": "https://cdn.myanimelist.net/images/characters/2/314931.jpg",
+        "title": "Koukaku Kidoutai"
+    },
+    {
+        "name": "Minato Namikaze",
+        "img": "https://cdn.myanimelist.net/images/characters/14/128074.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Tooru Honda",
+        "img": "https://cdn.myanimelist.net/images/characters/2/384113.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Vladilena Milizé",
+        "img": "https://cdn.myanimelist.net/images/characters/15/428175.jpg",
+        "title": "86"
+    },
+    {
+        "name": "Kenma Kozume",
+        "img": "https://cdn.myanimelist.net/images/characters/10/417885.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Kanna Kamui",
+        "img": "https://cdn.myanimelist.net/images/characters/2/322173.jpg",
+        "title": "Kobayashi-san Chi no Maid Dragon"
+    },
+    {
+        "name": "Tsubasa Hanekawa",
+        "img": "https://cdn.myanimelist.net/images/characters/7/105363.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Manjirou Sano",
+        "img": "https://cdn.myanimelist.net/images/characters/4/514406.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Kyon",
+        "img": "https://cdn.myanimelist.net/images/characters/13/75369.jpg",
+        "title": "Suzumiya Haruhi no Yuuutsu"
+    },
+    {
+        "name": "Yor Forger",
+        "img": "https://cdn.myanimelist.net/images/characters/11/457934.jpg",
+        "title": "Spy x Family"
+    },
+    {
+        "name": "Raphtalia",
+        "img": "https://cdn.myanimelist.net/images/characters/6/374252.jpg",
+        "title": "Tate no Yuusha no Nariagari"
+    },
+    {
+        "name": "Brook",
+        "img": "https://cdn.myanimelist.net/images/characters/10/161005.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Megumi Katou",
+        "img": "https://cdn.myanimelist.net/images/characters/6/326632.jpg",
+        "title": "Saenai Heroine no Sodatekata"
+    },
+    {
+        "name": "Nobara Kugisaki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/422313.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Kenzou Tenma",
+        "img": "https://cdn.myanimelist.net/images/characters/15/347641.jpg",
+        "title": "Monster"
+    },
+    {
+        "name": "Shinya Kougami",
+        "img": "https://cdn.myanimelist.net/images/characters/10/458989.jpg",
+        "title": "Psycho-Pass"
+    },
+    {
+        "name": "Himeko Inaba",
+        "img": "https://cdn.myanimelist.net/images/characters/12/172239.jpg",
+        "title": "Kokoro Connect"
+    },
+    {
+        "name": "Sasha Blouse",
+        "img": "https://cdn.myanimelist.net/images/characters/6/251937.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Shouya Ishida",
+        "img": "https://cdn.myanimelist.net/images/characters/8/302316.jpg",
+        "title": "Koe no Katachi"
+    },
+    {
+        "name": "Phosphophyllite",
+        "img": "https://cdn.myanimelist.net/images/characters/16/337796.jpg",
+        "title": "Houseki no Kuni PV"
+    },
+    {
+        "name": "Jousuke Higashikata",
+        "img": "https://cdn.myanimelist.net/images/characters/7/301871.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
+    },
+    {
+        "name": "Shougo Makishima",
+        "img": "https://cdn.myanimelist.net/images/characters/13/192519.jpg",
+        "title": "Psycho-Pass"
+    },
+    {
+        "name": "Shiki Ryougi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/79870.jpg",
+        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei"
+    },
+    {
+        "name": "Takashi Natsume",
+        "img": "https://cdn.myanimelist.net/images/characters/6/160755.jpg",
+        "title": "Natsume Yuujinchou"
+    },
+    {
+        "name": "Archer",
+        "img": "https://cdn.myanimelist.net/images/characters/6/502858.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Shouko Komi",
+        "img": "https://cdn.myanimelist.net/images/characters/5/354941.jpg",
+        "title": "Komi-san wa, Comyushou desu."
+    },
+    {
+        "name": "Inori Yuzuriha",
+        "img": "https://cdn.myanimelist.net/images/characters/10/139621.jpg",
+        "title": "Guilty Crown"
+    },
+    {
+        "name": "Nao Tomori",
+        "img": "https://cdn.myanimelist.net/images/characters/10/288020.jpg",
+        "title": "Charlotte"
+    },
+    {
+        "name": "Tetsuya Kuroko",
+        "img": "https://cdn.myanimelist.net/images/characters/3/258381.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Nanachi",
+        "img": "https://cdn.myanimelist.net/images/characters/10/350283.jpg",
+        "title": "Made in Abyss"
+    },
+    {
+        "name": "Meliodas",
+        "img": "https://cdn.myanimelist.net/images/characters/2/255447.jpg",
+        "title": "Nanatsu no Taizai"
+    },
+    {
+        "name": "Naofumi Iwatani",
+        "img": "https://cdn.myanimelist.net/images/characters/6/266009.jpg",
+        "title": "Tate no Yuusha no Nariagari"
+    },
+    {
+        "name": "Tamaki Suou",
+        "img": "https://cdn.myanimelist.net/images/characters/3/48467.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Chuuya Nakahara",
+        "img": "https://cdn.myanimelist.net/images/characters/16/305870.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Kei Tsukishima",
+        "img": "https://cdn.myanimelist.net/images/characters/14/417859.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Rei Kiriyama",
+        "img": "https://cdn.myanimelist.net/images/characters/14/320199.jpg",
+        "title": "3-gatsu no Lion"
+    },
+    {
+        "name": "All Might",
+        "img": "https://cdn.myanimelist.net/images/characters/14/310613.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Toushirou Hitsugaya",
+        "img": "https://cdn.myanimelist.net/images/characters/11/36579.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Johnny Joestar",
+        "img": "https://cdn.myanimelist.net/images/characters/16/337509.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+    },
+    {
+        "name": "Chrollo Lucilfer",
+        "img": "https://cdn.myanimelist.net/images/characters/4/182387.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Daiki Aomine",
+        "img": "https://cdn.myanimelist.net/images/characters/9/246745.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Ulquiorra Cifer",
+        "img": "https://cdn.myanimelist.net/images/characters/7/529323.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Shino Asada",
+        "img": "https://cdn.myanimelist.net/images/characters/10/235939.jpg",
+        "title": "Sword Art Online II"
+    },
+    {
+        "name": "Yui Yuigahama",
+        "img": "https://cdn.myanimelist.net/images/characters/2/332632.jpg",
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    },
+    {
+        "name": "Hanako-kun",
+        "img": "https://cdn.myanimelist.net/images/characters/10/353619.jpg",
+        "title": "Jibaku Shounen Hanako-kun"
+    },
+    {
+        "name": "Reiner Braun",
+        "img": "https://cdn.myanimelist.net/images/characters/16/206489.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Wolfgang Grimmer",
+        "img": "https://cdn.myanimelist.net/images/characters/15/27826.jpg",
+        "title": "Monster"
+    },
+    {
+        "name": "Eru Chitanda",
+        "img": "https://cdn.myanimelist.net/images/characters/11/514101.jpg",
+        "title": "Hyouka"
+    },
+    {
+        "name": "Yuki Nagato",
+        "img": "https://cdn.myanimelist.net/images/characters/11/319309.jpg",
+        "title": "Suzumiya Haruhi no Yuuutsu"
+    },
+    {
+        "name": "Pain",
+        "img": "https://cdn.myanimelist.net/images/characters/8/73473.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Faye Valentine",
+        "img": "https://cdn.myanimelist.net/images/characters/15/264961.jpg",
+        "title": "Cowboy Bebop"
+    },
+    {
+        "name": "Kotarou Katsura",
+        "img": "https://cdn.myanimelist.net/images/characters/11/30271.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Hak Son",
+        "img": "https://cdn.myanimelist.net/images/characters/13/263171.jpg",
+        "title": "Akatsuki no Yona"
+    },
+    {
+        "name": "Kaworu Nagisa",
+        "img": "https://cdn.myanimelist.net/images/characters/3/175413.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Aki Hayakawa",
+        "img": "https://cdn.myanimelist.net/images/characters/13/395003.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Rukia Kuchiki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/78215.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Tomoko Kuroki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/212635.jpg",
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+    },
+    {
+        "name": "Mirai Kuriyama",
+        "img": "https://cdn.myanimelist.net/images/characters/16/222699.jpg",
+        "title": "Kyoto Animation: Megane-hen"
+    },
+    {
+        "name": "Rudeus Greyrat",
+        "img": "https://cdn.myanimelist.net/images/characters/2/423667.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "Tatsuya Shiba",
+        "img": "https://cdn.myanimelist.net/images/characters/16/236781.jpg",
+        "title": "Mahouka Koukou no Rettousei"
+    },
+    {
+        "name": "Miko Iino",
+        "img": "https://cdn.myanimelist.net/images/characters/16/376603.jpg",
+        "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Wen-li Yang",
+        "img": "https://cdn.myanimelist.net/images/characters/16/342236.jpg",
+        "title": "Ginga Eiyuu Densetsu"
+    },
+    {
+        "name": "Shinoa Hiiragi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/285968.jpg",
+        "title": "Owari no Seraph"
+    },
+    {
+        "name": "Maki Zenin",
+        "img": "https://cdn.myanimelist.net/images/characters/3/440469.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Elaina",
+        "img": "https://cdn.myanimelist.net/images/characters/10/330816.jpg",
+        "title": "Majo no Tabitabi"
+    },
+    {
+        "name": "Suzune Horikita",
+        "img": "https://cdn.myanimelist.net/images/characters/14/314058.jpg",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV"
+    },
+    {
+        "name": "Punpun Onodera",
+        "img": "https://cdn.myanimelist.net/images/characters/12/333827.jpg",
+        "title": "Oyasumi Punpun"
+    },
+    {
+        "name": "Rider",
+        "img": "https://cdn.myanimelist.net/images/characters/9/142869.jpg",
+        "title": "Fate/Zero"
+    },
+    {
+        "name": "Ray",
+        "img": "https://cdn.myanimelist.net/images/characters/16/360042.jpg",
+        "title": "Yakusoku no Neverland"
+    },
+    {
+        "name": "Kousei Arima",
+        "img": "https://cdn.myanimelist.net/images/characters/4/273755.jpg",
+        "title": "Shigatsu wa Kimi no Uso"
+    },
+    {
+        "name": "Toushirou Hijikata",
+        "img": "https://cdn.myanimelist.net/images/characters/7/73155.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Albedo",
+        "img": "https://cdn.myanimelist.net/images/characters/10/512756.jpg",
+        "title": "Overlord"
+    },
+    {
+        "name": "Takina Inoue",
+        "img": "https://cdn.myanimelist.net/images/characters/3/486673.jpg",
+        "title": "Lycoris Recoil"
+    },
+    {
+        "name": "Madoka Kaname",
+        "img": "https://cdn.myanimelist.net/images/characters/6/139487.jpg",
+        "title": "Mahou Shoujo Madoka★Magica"
+    },
+    {
+        "name": "Nagisa Shiota",
+        "img": "https://cdn.myanimelist.net/images/characters/7/303282.jpg",
+        "title": "Ansatsu Kyoushitsu: Jump Festa 2013 Special"
+    },
+    {
+        "name": "Obito Uchiha",
+        "img": "https://cdn.myanimelist.net/images/characters/8/70596.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Kaiji Itou",
+        "img": "https://cdn.myanimelist.net/images/characters/13/29010.jpg",
+        "title": "Gyakkyou Burai Kaiji: Ultimate Survivor"
+    },
+    {
+        "name": "Miyuki Shirogane",
+        "img": "https://cdn.myanimelist.net/images/characters/16/371541.jpg",
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    },
+    {
+        "name": "Yona",
+        "img": "https://cdn.myanimelist.net/images/characters/13/325018.jpg",
+        "title": "Akatsuki no Yona"
+    },
+    {
+        "name": "Yuusuke Urameshi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/130535.jpg",
+        "title": "Yuu☆Yuu☆Hakusho"
+    },
+    {
+        "name": "Hanamichi Sakuragi",
+        "img": "https://cdn.myanimelist.net/images/characters/7/314546.jpg",
+        "title": "Slam Dunk"
+    },
+    {
+        "name": "Jolyne Kuujou",
+        "img": "https://cdn.myanimelist.net/images/characters/8/476401.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
+    },
+    {
+        "name": "Mikaela Hyakuya",
+        "img": "https://cdn.myanimelist.net/images/characters/16/282380.jpg",
+        "title": "Owari no Seraph"
+    },
+    {
+        "name": "Issei Hyoudou",
+        "img": "https://cdn.myanimelist.net/images/characters/4/211641.jpg",
+        "title": "High School DxD"
+    },
+    {
+        "name": "Legoshi",
+        "img": "https://cdn.myanimelist.net/images/characters/16/402912.jpg",
+        "title": "Beastars"
+    },
+    {
+        "name": "Lucy Heartfilia",
+        "img": "https://cdn.myanimelist.net/images/characters/7/67774.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Shouta Aizawa",
+        "img": "https://cdn.myanimelist.net/images/characters/8/301855.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Keima Katsuragi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/122018.jpg",
+        "title": "Kami nomi zo Shiru Sekai"
+    },
+    {
+        "name": "Maomao",
+        "img": "https://cdn.myanimelist.net/images/characters/16/371204.jpg",
+        "title": "Kusuriya no Hitorigoto"
+    },
+    {
+        "name": "Ippo Makunouchi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/32678.jpg",
+        "title": "Hajime no Ippo"
+    },
+    {
+        "name": "Sawako Kuronuma",
+        "img": "https://cdn.myanimelist.net/images/characters/6/120945.jpg",
+        "title": "Kimi ni Todoke"
+    },
+    {
+        "name": "Gray Fullbuster",
+        "img": "https://cdn.myanimelist.net/images/characters/8/119554.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Mitsuha Miyamizu",
+        "img": "https://cdn.myanimelist.net/images/characters/5/336342.jpg",
+        "title": "Kimi no Na wa."
+    },
+    {
+        "name": "Toge Inumaki",
+        "img": "https://cdn.myanimelist.net/images/characters/16/428791.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Garou",
+        "img": "https://cdn.myanimelist.net/images/characters/9/381817.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Shinei Nouzen",
+        "img": "https://cdn.myanimelist.net/images/characters/13/481806.jpg",
+        "title": "86"
+    },
+    {
+        "name": "Escanor",
+        "img": "https://cdn.myanimelist.net/images/characters/14/372194.jpg",
+        "title": "Nanatsu no Taizai: Seisen no Shirushi"
+    },
+    {
+        "name": "Satsuki Kiryuuin",
+        "img": "https://cdn.myanimelist.net/images/characters/7/219863.jpg",
+        "title": "Kill la Kill"
+    },
+    {
+        "name": "Giorno Giovanna",
+        "img": "https://cdn.myanimelist.net/images/characters/13/361193.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+    },
+    {
+        "name": "Mei Misaki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/237389.jpg",
+        "title": "Another"
+    },
+    {
+        "name": "Cid Kagenou",
+        "img": "https://cdn.myanimelist.net/images/characters/7/461218.jpg",
+        "title": "Kage no Jitsuryokusha ni Naritakute!"
+    },
+    {
+        "name": "Rohan Kishibe",
+        "img": "https://cdn.myanimelist.net/images/characters/16/133163.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
+    },
+    {
+        "name": "Ranpo Edogawa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/303819.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Mayoi Hachikuji",
+        "img": "https://cdn.myanimelist.net/images/characters/5/222381.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Koutarou Bokuto",
+        "img": "https://cdn.myanimelist.net/images/characters/11/417878.jpg",
+        "title": "Haikyuu!! Second Season"
+    },
+    {
+        "name": "Hyakkimaru",
+        "img": "https://cdn.myanimelist.net/images/characters/9/373275.jpg",
+        "title": "Dororo to Hyakkimaru"
+    },
+    {
+        "name": "Chisato Nishikigi",
+        "img": "https://cdn.myanimelist.net/images/characters/5/486674.jpg",
+        "title": "Lycoris Recoil"
+    },
+    {
+        "name": "Conan Edogawa",
+        "img": "https://cdn.myanimelist.net/images/characters/11/308347.jpg",
+        "title": "Meitantei Conan"
+    },
+    {
+        "name": "Nagito Komaeda",
+        "img": "https://cdn.myanimelist.net/images/characters/12/309480.jpg",
+        "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen"
+    },
+    {
+        "name": "Haruko Haruhara",
+        "img": "https://cdn.myanimelist.net/images/characters/11/523359.jpg",
+        "title": "FLCL"
+    },
+    {
+        "name": "Inuyasha",
+        "img": "https://cdn.myanimelist.net/images/characters/4/89606.jpg",
+        "title": "InuYasha"
+    },
+    {
+        "name": "Shana",
+        "img": "https://cdn.myanimelist.net/images/characters/5/68310.jpg",
+        "title": "Shakugan no Shana"
+    },
+    {
+        "name": "Leorio Paladiknight",
+        "img": "https://cdn.myanimelist.net/images/characters/11/174519.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Zero Kiryuu",
+        "img": "https://cdn.myanimelist.net/images/characters/15/59912.jpg",
+        "title": "Vampire Knight"
+    },
+    {
+        "name": "Jean Kirstein",
+        "img": "https://cdn.myanimelist.net/images/characters/14/216893.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Haruhi Fujioka",
+        "img": "https://cdn.myanimelist.net/images/characters/13/55779.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Mako Mankanshoku",
+        "img": "https://cdn.myanimelist.net/images/characters/9/232905.jpg",
+        "title": "Kill la Kill"
+    },
+    {
+        "name": "Mamoru Takamura",
+        "img": "https://cdn.myanimelist.net/images/characters/13/229037.jpg",
+        "title": "Hajime no Ippo"
+    },
+    {
+        "name": "Sesshoumaru",
+        "img": "https://cdn.myanimelist.net/images/characters/14/41081.jpg",
+        "title": "InuYasha"
+    },
+    {
+        "name": "Hayase Nagatoro",
+        "img": "https://cdn.myanimelist.net/images/characters/3/522251.jpg",
+        "title": "Ijiranaide, Nagatoro-san"
+    },
+    {
+        "name": "Misaki Ayuzawa",
+        "img": "https://cdn.myanimelist.net/images/characters/14/87812.jpg",
+        "title": "Kaichou wa Maid-sama!"
+    },
+    {
+        "name": "Bruno Bucciarati",
+        "img": "https://cdn.myanimelist.net/images/characters/16/319829.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+    },
+    {
+        "name": "Tatsumaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/296110.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Victor Nikiforov",
+        "img": "https://cdn.myanimelist.net/images/characters/13/318419.jpg",
+        "title": "Yuri!!! on Ice"
+    },
+    {
+        "name": "Ai Hoshino",
+        "img": "https://cdn.myanimelist.net/images/characters/6/496453.jpg",
+        "title": "\"Oshi no Ko\""
+    },
+    {
+        "name": "Azusa Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/15/86736.jpg",
+        "title": "K-On!"
+    },
+    {
+        "name": "Ruri Gokou",
+        "img": "https://cdn.myanimelist.net/images/characters/9/101412.jpg",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+    },
+    {
+        "name": "Katakuri Charlotte",
+        "img": "https://cdn.myanimelist.net/images/characters/8/342776.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Tetsurou Kuroo",
+        "img": "https://cdn.myanimelist.net/images/characters/13/417887.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Byakuya Kuchiki",
+        "img": "https://cdn.myanimelist.net/images/characters/7/100098.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Gohan Son",
+        "img": "https://cdn.myanimelist.net/images/characters/2/72715.jpg",
+        "title": "Dragon Ball GT"
+    },
+    {
+        "name": "Isla",
+        "img": "https://cdn.myanimelist.net/images/characters/3/517401.jpg",
+        "title": "Plastic Memories"
+    },
+    {
+        "name": "Shirou Emiya",
+        "img": "https://cdn.myanimelist.net/images/characters/13/173271.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Lucy",
+        "img": "https://cdn.myanimelist.net/images/characters/11/486620.jpg",
+        "title": "Cyberpunk: Edgerunners"
+    },
+    {
+        "name": "Akane Tsunemori",
+        "img": "https://cdn.myanimelist.net/images/characters/9/179601.jpg",
+        "title": "Psycho-Pass"
+    },
+    {
+        "name": "Seijuurou Akashi",
+        "img": "https://cdn.myanimelist.net/images/characters/4/275813.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Celty Sturluson",
+        "img": "https://cdn.myanimelist.net/images/characters/8/85308.jpg",
+        "title": "Durarara!!"
+    },
+    {
+        "name": "Tsumugi Kotobuki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/51210.jpg",
+        "title": "K-On!"
+    },
+    {
+        "name": "Takagi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/348969.jpg",
+        "title": "Karakai Jouzu no Takagi-san"
+    },
+    {
+        "name": "Decim",
+        "img": "https://cdn.myanimelist.net/images/characters/16/273283.jpg",
+        "title": "Death Billiards"
+    },
+    {
+        "name": "Yuuta Okkotsu",
+        "img": "https://cdn.myanimelist.net/images/characters/10/461503.jpg",
+        "title": "Jujutsu Kaisen 0 Movie"
+    },
+    {
+        "name": "Sinbad",
+        "img": "https://cdn.myanimelist.net/images/characters/6/181341.jpg",
+        "title": "Magi: The Labyrinth of Magic"
+    },
+    {
+        "name": "Grimmjow Jaegerjaquez",
+        "img": "https://cdn.myanimelist.net/images/characters/10/529459.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Sakura Matou",
+        "img": "https://cdn.myanimelist.net/images/characters/14/294277.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Rika Furude",
+        "img": "https://cdn.myanimelist.net/images/characters/15/317398.jpg",
+        "title": "Higurashi no Naku Koro ni"
+    },
+    {
+        "name": "Franky",
+        "img": "https://cdn.myanimelist.net/images/characters/13/210053.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Maes Hughes",
+        "img": "https://cdn.myanimelist.net/images/characters/13/73469.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Sougo Okita",
+        "img": "https://cdn.myanimelist.net/images/characters/6/112926.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Ayumu Kasuga",
+        "img": "https://cdn.myanimelist.net/images/characters/3/27890.jpg",
+        "title": "Azumanga Daiou The Animation"
+    },
+    {
+        "name": "Norman",
+        "img": "https://cdn.myanimelist.net/images/characters/7/323859.jpg",
+        "title": "Yakusoku no Neverland"
+    },
+    {
+        "name": "Shanks",
+        "img": "https://cdn.myanimelist.net/images/characters/9/307639.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Yoko Littner",
+        "img": "https://cdn.myanimelist.net/images/characters/13/529260.jpg",
+        "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+        "name": "Misa Amane",
+        "img": "https://cdn.myanimelist.net/images/characters/5/30971.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Eijirou Kirishima",
+        "img": "https://cdn.myanimelist.net/images/characters/11/329529.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Rock Lee",
+        "img": "https://cdn.myanimelist.net/images/characters/13/433353.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Grell Sutcliff",
+        "img": "https://cdn.myanimelist.net/images/characters/16/111619.jpg",
+        "title": "Kuroshitsuji"
+    },
+    {
+        "name": "Rena Ryuuguu",
+        "img": "https://cdn.myanimelist.net/images/characters/13/264395.jpg",
+        "title": "Higurashi no Naku Koro ni"
+    },
+    {
+        "name": "Kanao Tsuyuri",
+        "img": "https://cdn.myanimelist.net/images/characters/2/384712.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Vanitas",
+        "img": "https://cdn.myanimelist.net/images/characters/13/453109.jpg",
+        "title": "Vanitas no Karte"
+    },
+    {
+        "name": "Ryuuji Takasu",
+        "img": "https://cdn.myanimelist.net/images/characters/7/514089.jpg",
+        "title": "Toradora!"
+    },
+    {
+        "name": "Tooru",
+        "img": "https://cdn.myanimelist.net/images/characters/11/322676.jpg",
+        "title": "Kobayashi-san Chi no Maid Dragon"
+    },
+    {
+        "name": "Annie Leonhart",
+        "img": "https://cdn.myanimelist.net/images/characters/9/206357.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Loid Forger",
+        "img": "https://cdn.myanimelist.net/images/characters/2/457747.jpg",
+        "title": "Spy x Family"
+    },
+    {
+        "name": "Lalatina Dustiness Ford",
+        "img": "https://cdn.myanimelist.net/images/characters/14/266229.jpg",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    {
+        "name": "Edward Wong Hau Pepelu Tivrusky IV",
+        "img": "https://cdn.myanimelist.net/images/characters/16/30533.jpg",
+        "title": "Cowboy Bebop"
+    },
+    {
+        "name": "Tsunayoshi Sawada",
+        "img": "https://cdn.myanimelist.net/images/characters/15/76730.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Greed",
+        "img": "https://cdn.myanimelist.net/images/characters/10/78721.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Momo Belia Deviluke",
+        "img": "https://cdn.myanimelist.net/images/characters/3/273413.jpg",
+        "title": "To LOVE-Ru OVA"
+    },
+    {
+        "name": "Genos",
+        "img": "https://cdn.myanimelist.net/images/characters/9/297329.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Takumi Fujiwara",
+        "img": "https://cdn.myanimelist.net/images/characters/14/296425.jpg",
+        "title": "Initial D Fourth Stage"
+    },
+    {
+        "name": "Touji Fushiguro",
+        "img": "https://cdn.myanimelist.net/images/characters/2/517123.jpg",
+        "title": "Jujutsu Kaisen 2nd Season"
+    },
+    {
+        "name": "Saeko Busujima",
+        "img": "https://cdn.myanimelist.net/images/characters/6/464440.jpg",
+        "title": "Highschool of the Dead"
+    },
+    {
+        "name": "Kenji Harima",
+        "img": "https://cdn.myanimelist.net/images/characters/10/29703.jpg",
+        "title": "School Rumble"
+    },
+    {
+        "name": "Kallen Stadtfeld",
+        "img": "https://cdn.myanimelist.net/images/characters/8/31533.jpg",
+        "title": "Code Geass: Hangyaku no Lelouch"
+    },
+    {
+        "name": "Kumiko Oumae",
+        "img": "https://cdn.myanimelist.net/images/characters/9/354297.jpg",
+        "title": "Hibike! Euphonium"
+    },
+    {
+        "name": "Toua Tokuchi",
+        "img": "https://cdn.myanimelist.net/images/characters/7/90985.jpg",
+        "title": "One Outs"
+    },
+    {
+        "name": "Yotsuba Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/8/437009.jpg",
+        "title": "5-toubun no Hanayome"
+    },
+    {
+        "name": "Rin Shima",
+        "img": "https://cdn.myanimelist.net/images/characters/10/358813.jpg",
+        "title": "Yuru Camp△"
+    },
+    {
+        "name": "Yoruichi Shihouin",
+        "img": "https://cdn.myanimelist.net/images/characters/14/33266.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Tatsuhiro Satou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/78390.jpg",
+        "title": "NHK ni Youkoso!"
+    },
+    {
+        "name": "Eris Boreas Greyrat",
+        "img": "https://cdn.myanimelist.net/images/characters/14/324594.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "William James Moriarty",
+        "img": "https://cdn.myanimelist.net/images/characters/5/336567.jpg",
+        "title": "Yuukoku no Moriarty"
+    },
+    {
+        "name": "Reinhard von Lohengramm",
+        "img": "https://cdn.myanimelist.net/images/characters/2/507882.jpg",
+        "title": "Ginga Eiyuu Densetsu"
+    },
+    {
+        "name": "Renge Miyauchi",
+        "img": "https://cdn.myanimelist.net/images/characters/15/288781.jpg",
+        "title": "Non Non Biyori"
+    },
+    {
+        "name": "Kyouko Sakura",
+        "img": "https://cdn.myanimelist.net/images/characters/14/111234.jpg",
+        "title": "Mahou Shoujo Madoka★Magica"
+    },
+    {
+        "name": "Noriaki Kakyouin",
+        "img": "https://cdn.myanimelist.net/images/characters/8/245201.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Sakura Kinomoto",
+        "img": "https://cdn.myanimelist.net/images/characters/5/86417.jpg",
+        "title": "Cardcaptor Sakura"
+    },
+    {
+        "name": "Soul Eater Evans",
+        "img": "https://cdn.myanimelist.net/images/characters/2/75175.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Shiro",
+        "img": "https://cdn.myanimelist.net/images/characters/16/114507.jpg",
+        "title": "Deadman Wonderland"
+    },
+    {
+        "name": "Kyouko Kirigiri",
+        "img": "https://cdn.myanimelist.net/images/characters/2/214781.jpg",
+        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+    },
+    {
+        "name": "Chifuyu Matsuno",
+        "img": "https://cdn.myanimelist.net/images/characters/14/387987.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Ochako Uraraka",
+        "img": "https://cdn.myanimelist.net/images/characters/9/299421.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Riza Hawkeye",
+        "img": "https://cdn.myanimelist.net/images/characters/3/451785.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Char Aznable",
+        "img": "https://cdn.myanimelist.net/images/characters/8/81955.jpg",
+        "title": "Kidou Senshi Gundam"
+    },
+    {
+        "name": "Ais Wallenstein",
+        "img": "https://cdn.myanimelist.net/images/characters/14/328382.jpg",
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    {
+        "name": "Tsukasa Yuzaki",
+        "img": "https://cdn.myanimelist.net/images/characters/7/378069.jpg",
+        "title": "Tonikaku Kawaii"
+    },
+    {
+        "name": "Rui Tachibana",
+        "img": "https://cdn.myanimelist.net/images/characters/5/382489.jpg",
+        "title": "Domestic na Kanojo"
+    },
+    {
+        "name": "Koushi Sugawara",
+        "img": "https://cdn.myanimelist.net/images/characters/15/285904.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Jin",
+        "img": "https://cdn.myanimelist.net/images/characters/13/62969.jpg",
+        "title": "Samurai Champloo"
+    },
+    {
+        "name": "Ritsu Tainaka",
+        "img": "https://cdn.myanimelist.net/images/characters/6/51212.jpg",
+        "title": "K-On!"
+    },
+    {
+        "name": "Rin Matsuoka",
+        "img": "https://cdn.myanimelist.net/images/characters/3/265841.jpg",
+        "title": "Free!"
+    },
+    {
+        "name": "Usagi Tsukino",
+        "img": "https://cdn.myanimelist.net/images/characters/4/312776.jpg",
+        "title": "Bishoujo Senshi Sailor Moon"
+    },
+    {
+        "name": "Misaki Nakahara",
+        "img": "https://cdn.myanimelist.net/images/characters/5/72194.jpg",
+        "title": "NHK ni Youkoso!"
+    },
+    {
+        "name": "Sousuke Sagara",
+        "img": "https://cdn.myanimelist.net/images/characters/9/139801.jpg",
+        "title": "Full Metal Panic!"
+    },
+    {
+        "name": "Joe Yabuki",
+        "img": "https://cdn.myanimelist.net/images/characters/9/328207.jpg",
+        "title": "Ashita no Joe"
+    },
+    {
+        "name": "Sakura Haruno",
+        "img": "https://cdn.myanimelist.net/images/characters/9/69275.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Victorique de Blois",
+        "img": "https://cdn.myanimelist.net/images/characters/5/108860.jpg",
+        "title": "Gosick"
+    },
+    {
+        "name": "Erina Nakiri",
+        "img": "https://cdn.myanimelist.net/images/characters/10/422450.jpg",
+        "title": "Shokugeki no Souma"
+    },
+    {
+        "name": "Himiko Toga",
+        "img": "https://cdn.myanimelist.net/images/characters/7/485281.jpg",
+        "title": "Boku no Hero Academia 2nd Season"
+    },
+    {
+        "name": "Tengen Uzui",
+        "img": "https://cdn.myanimelist.net/images/characters/16/387706.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Maka Albarn",
+        "img": "https://cdn.myanimelist.net/images/characters/16/74151.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Jibril",
+        "img": "https://cdn.myanimelist.net/images/characters/12/248121.jpg",
+        "title": "No Game No Life"
+    },
+    {
+        "name": "Xerxes Break",
+        "img": "https://cdn.myanimelist.net/images/characters/6/323769.jpg",
+        "title": "Pandora Hearts"
+    },
+    {
+        "name": "Yuuichi Katagiri",
+        "img": "https://cdn.myanimelist.net/images/characters/4/466241.jpg",
+        "title": "Tomodachi Game"
+    },
+    {
+        "name": "Yuuko Ichihara",
+        "img": "https://cdn.myanimelist.net/images/characters/3/523462.jpg",
+        "title": "Tsubasa Chronicle"
+    },
+    {
+        "name": "Bell Cranel",
+        "img": "https://cdn.myanimelist.net/images/characters/15/508889.jpg",
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    {
+        "name": "Louise Françoise Le Blanc de La Vallière",
+        "img": "https://cdn.myanimelist.net/images/characters/12/514093.jpg",
+        "title": "Zero no Tsukaima"
+    },
+    {
+        "name": "Shinichi Izumi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/269013.jpg",
+        "title": "Kiseijuu: Sei no Kakuritsu"
+    },
+    {
+        "name": "Meiko Honma",
+        "img": "https://cdn.myanimelist.net/images/characters/16/115711.jpg",
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+    },
+    {
+        "name": "Hiei",
+        "img": "https://cdn.myanimelist.net/images/characters/13/76077.jpg",
+        "title": "Yuu☆Yuu☆Hakusho"
+    },
+    {
+        "name": "Rory Mercury",
+        "img": "https://cdn.myanimelist.net/images/characters/10/287900.jpg",
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+    },
+    {
+        "name": "Kusuriuri",
+        "img": "https://cdn.myanimelist.net/images/characters/5/461202.jpg",
+        "title": "Ayakashi: Japanese Classic Horror"
+    },
+    {
+        "name": "Kou Mabuchi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/231773.jpg",
+        "title": "Ao Haru Ride"
+    },
+    {
+        "name": "Kyouya Hibari",
+        "img": "https://cdn.myanimelist.net/images/characters/2/107841.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Ken Ryuuguuji",
+        "img": "https://cdn.myanimelist.net/images/characters/3/388001.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Suruga Kanbaru",
+        "img": "https://cdn.myanimelist.net/images/characters/11/222449.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Echidna",
+        "img": "https://cdn.myanimelist.net/images/characters/13/319348.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna"
+    },
+    {
+        "name": "Goblin Slayer",
+        "img": "https://cdn.myanimelist.net/images/characters/14/523995.jpg",
+        "title": "Goblin Slayer"
+    },
+    {
+        "name": "Makoto Tachibana",
+        "img": "https://cdn.myanimelist.net/images/characters/9/211987.jpg",
+        "title": "Free!"
+    },
+    {
+        "name": "Morgiana",
+        "img": "https://cdn.myanimelist.net/images/characters/2/173513.jpg",
+        "title": "Magi: The Labyrinth of Magic"
+    },
+    {
+        "name": "Madara",
+        "img": "https://cdn.myanimelist.net/images/characters/13/83359.jpg",
+        "title": "Natsume Yuujinchou"
+    },
+    {
+        "name": "Kino",
+        "img": "https://cdn.myanimelist.net/images/characters/15/303659.jpg",
+        "title": "Kino no Tabi: The Beautiful World"
+    },
+    {
+        "name": "Shiroe",
+        "img": "https://cdn.myanimelist.net/images/characters/11/200451.jpg",
+        "title": "Log Horizon"
+    },
+    {
+        "name": "Yotsuba Koiwai",
+        "img": "https://cdn.myanimelist.net/images/characters/5/132885.jpg",
+        "title": "Yotsuba to!"
+    },
+    {
+        "name": "Reze",
+        "img": "https://cdn.myanimelist.net/images/characters/14/412779.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Bojji",
+        "img": "https://cdn.myanimelist.net/images/characters/12/451497.jpg",
+        "title": "Ousama Ranking"
+    },
+    {
+        "name": "Chiaki Nanami",
+        "img": "https://cdn.myanimelist.net/images/characters/14/310999.jpg",
+        "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+    },
+    {
+        "name": "Minene Uryuu",
+        "img": "https://cdn.myanimelist.net/images/characters/15/160081.jpg",
+        "title": "Mirai Nikki"
+    },
+    {
+        "name": "Dabi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/454749.jpg",
+        "title": "Boku no Hero Academia 2nd Season"
+    },
+    {
+        "name": "Miku Hatsune",
+        "img": "https://cdn.myanimelist.net/images/characters/11/390438.jpg",
+        "title": "Downloader"
+    },
+    {
+        "name": "Maki Nishikino",
+        "img": "https://cdn.myanimelist.net/images/characters/9/196139.jpg",
+        "title": "Bokura no Live Kimi to no Life"
+    },
+    {
+        "name": "Re-l Mayer",
+        "img": "https://cdn.myanimelist.net/images/characters/3/325688.jpg",
+        "title": "Ergo Proxy"
+    },
+    {
+        "name": "Yuri Plisetsky",
+        "img": "https://cdn.myanimelist.net/images/characters/6/316492.jpg",
+        "title": "Yuri!!! on Ice"
+    },
+    {
+        "name": "Tsuyu Asui",
+        "img": "https://cdn.myanimelist.net/images/characters/10/299409.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Iroha Isshiki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/320273.jpg",
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+    },
+    {
+        "name": "Undertaker",
+        "img": "https://cdn.myanimelist.net/images/characters/15/43415.jpg",
+        "title": "Kuroshitsuji"
+    },
+    {
+        "name": "Wuxian Wei",
+        "img": "https://cdn.myanimelist.net/images/characters/16/364285.jpg",
+        "title": "Mo Dao Zu Shi"
+    },
+    {
+        "name": "Ling Yao",
+        "img": "https://cdn.myanimelist.net/images/characters/15/62602.jpg",
+        "title": "Fullmetal Alchemist: Brotherhood"
+    },
+    {
+        "name": "Umaru Doma",
+        "img": "https://cdn.myanimelist.net/images/characters/11/288277.jpg",
+        "title": "Himouto! Umaru-chan"
+    },
+    {
+        "name": "Sayaka Miki",
+        "img": "https://cdn.myanimelist.net/images/characters/13/107672.jpg",
+        "title": "Mahou Shoujo Madoka★Magica"
+    },
+    {
+        "name": "Ryuunosuke Akutagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/13/304494.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Kirei Kotomine",
+        "img": "https://cdn.myanimelist.net/images/characters/3/258487.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Reki Kyan",
+        "img": "https://cdn.myanimelist.net/images/characters/16/422618.jpg",
+        "title": "SK∞"
+    },
+    {
+        "name": "Kyouko Mogami",
+        "img": "https://cdn.myanimelist.net/images/characters/13/59130.jpg",
+        "title": "Skip Beat!"
+    },
+    {
+        "name": "Tomoyo Sakagami",
+        "img": "https://cdn.myanimelist.net/images/characters/2/34293.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Aquamarine Hoshino",
+        "img": "https://cdn.myanimelist.net/images/characters/9/496455.jpg",
+        "title": "\"Oshi no Ko\""
+    },
+    {
+        "name": "Isaac Foster",
+        "img": "https://cdn.myanimelist.net/images/characters/12/360393.jpg",
+        "title": "Satsuriku no Tenshi"
+    },
+    {
+        "name": "Teresa",
+        "img": "https://cdn.myanimelist.net/images/characters/7/309238.jpg",
+        "title": "Claymore"
+    },
+    {
+        "name": "Mafuyu Satou",
+        "img": "https://cdn.myanimelist.net/images/characters/4/390597.jpg",
+        "title": "Given"
+    },
+    {
+        "name": "Migi",
+        "img": "https://cdn.myanimelist.net/images/characters/12/348176.jpg",
+        "title": "Kiseijuu: Sei no Kakuritsu"
+    },
+    {
+        "name": "Nozomu Itoshiki",
+        "img": "https://cdn.myanimelist.net/images/characters/10/78202.jpg",
+        "title": "Sayonara Zetsubou Sensei"
+    },
+    {
+        "name": "Kintarou Ooe",
+        "img": "https://cdn.myanimelist.net/images/characters/3/79510.jpg",
+        "title": "Golden Boy"
+    },
+    {
+        "name": "Tooka Yatogami",
+        "img": "https://cdn.myanimelist.net/images/characters/7/203347.jpg",
+        "title": "Date A Live"
+    },
+    {
+        "name": "Kuro no Rider",
+        "img": "https://cdn.myanimelist.net/images/characters/7/333308.jpg",
+        "title": "Fate/Apocrypha"
+    },
+    {
+        "name": "Jean-Pierre Polnareff",
+        "img": "https://cdn.myanimelist.net/images/characters/10/245195.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Emma",
+        "img": "https://cdn.myanimelist.net/images/characters/12/455009.jpg",
+        "title": "Yakusoku no Neverland"
+    },
+    {
+        "name": "Illyasviel von Einzbern",
+        "img": "https://cdn.myanimelist.net/images/characters/14/346384.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Shun Kaidou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/310574.jpg",
+        "title": "Saiki Kusuo no Ψ-nan (ONA)"
+    },
+    {
+        "name": "Koneko Toujou",
+        "img": "https://cdn.myanimelist.net/images/characters/7/279778.jpg",
+        "title": "High School DxD"
+    },
+    {
+        "name": "Tsubaki Sawabe",
+        "img": "https://cdn.myanimelist.net/images/characters/11/252841.jpg",
+        "title": "Shigatsu wa Kimi no Uso"
+    },
+    {
+        "name": "Suguru Getou",
+        "img": "https://cdn.myanimelist.net/images/characters/4/524519.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Yukine",
+        "img": "https://cdn.myanimelist.net/images/characters/16/233653.jpg",
+        "title": "Noragami"
+    },
+    {
+        "name": "Isaac Netero",
+        "img": "https://cdn.myanimelist.net/images/characters/7/257355.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Lavi",
+        "img": "https://cdn.myanimelist.net/images/characters/10/72039.jpg",
+        "title": "D.Gray-man"
+    },
+    {
+        "name": "Utaha Kasumigaoka",
+        "img": "https://cdn.myanimelist.net/images/characters/8/325309.jpg",
+        "title": "Saenai Heroine no Sodatekata"
+    },
+    {
+        "name": "Dante",
+        "img": "https://cdn.myanimelist.net/images/characters/6/85958.jpg",
+        "title": "Devil May Cry"
+    },
+    {
+        "name": "Yuri Nakamura",
+        "img": "https://cdn.myanimelist.net/images/characters/7/119951.jpg",
+        "title": "Angel Beats!"
+    },
+    {
+        "name": "Sara",
+        "img": "https://cdn.myanimelist.net/images/characters/2/290182.jpg",
+        "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "Touma Kamijou",
+        "img": "https://cdn.myanimelist.net/images/characters/10/302965.jpg",
+        "title": "Toaru Majutsu no Index"
+    },
+    {
+        "name": "Doflamingo Donquixote",
+        "img": "https://cdn.myanimelist.net/images/characters/5/349513.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Newgate Edward",
+        "img": "https://cdn.myanimelist.net/images/characters/3/100236.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Crona",
+        "img": "https://cdn.myanimelist.net/images/characters/10/472323.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Rebecca",
+        "img": "https://cdn.myanimelist.net/images/characters/8/483450.jpg",
+        "title": "Cyberpunk: Edgerunners"
+    },
+    {
+        "name": "Nadeko Sengoku",
+        "img": "https://cdn.myanimelist.net/images/characters/2/264877.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Kurama",
+        "img": "https://cdn.myanimelist.net/images/characters/4/58629.jpg",
+        "title": "Yuu☆Yuu☆Hakusho"
+    },
+    {
+        "name": "Aki Adagaki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/229719.jpg",
+        "title": "Masamune-kun no Revenge"
+    },
+    {
+        "name": "Vivy",
+        "img": "https://cdn.myanimelist.net/images/characters/5/437608.jpg",
+        "title": "Vivy: Fluorite Eye's Song"
+    },
+    {
+        "name": "Anos Voldigoad",
+        "img": "https://cdn.myanimelist.net/images/characters/13/465356.jpg",
+        "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+    },
+    {
+        "name": "Youichi Hiruma",
+        "img": "https://cdn.myanimelist.net/images/characters/4/61939.jpg",
+        "title": "Eyeshield 21"
+    },
+    {
+        "name": "Rio Futaba",
+        "img": "https://cdn.myanimelist.net/images/characters/11/361763.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Yuu Otosaka",
+        "img": "https://cdn.myanimelist.net/images/characters/4/510430.jpg",
+        "title": "Charlotte"
+    },
+    {
+        "name": "Kouko Kaga",
+        "img": "https://cdn.myanimelist.net/images/characters/8/221317.jpg",
+        "title": "Golden Time"
+    },
+    {
+        "name": "Benimaru Shinmon",
+        "img": "https://cdn.myanimelist.net/images/characters/5/397594.jpg",
+        "title": "Enen no Shouboutai"
+    },
+    {
+        "name": "Happy",
+        "img": "https://cdn.myanimelist.net/images/characters/14/365287.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Kobeni Higashiyama",
+        "img": "https://cdn.myanimelist.net/images/characters/3/467961.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Casca",
+        "img": "https://cdn.myanimelist.net/images/characters/14/72697.jpg",
+        "title": "Kenpuu Denki Berserk"
+    },
+    {
+        "name": "Bondrewd",
+        "img": "https://cdn.myanimelist.net/images/characters/8/471436.jpg",
+        "title": "Made in Abyss"
+    },
+    {
+        "name": "Ougi Oshino",
+        "img": "https://cdn.myanimelist.net/images/characters/3/301358.jpg",
+        "title": "Monogatari Series: Second Season"
+    },
+    {
+        "name": "Aoi Toudou",
+        "img": "https://cdn.myanimelist.net/images/characters/5/427604.jpg",
+        "title": "Jujutsu Kaisen"
+    },
+    {
+        "name": "Nazuna Nanakusa",
+        "img": "https://cdn.myanimelist.net/images/characters/10/480353.jpg",
+        "title": "Yofukashi no Uta"
+    },
+    {
+        "name": "Aguero Agnes Khun",
+        "img": "https://cdn.myanimelist.net/images/characters/4/402810.jpg",
+        "title": "Kami no Tou"
+    },
+    {
+        "name": "Isaac Dian",
+        "img": "https://cdn.myanimelist.net/images/characters/9/117856.jpg",
+        "title": "Baccano!"
+    },
+    {
+        "name": "Black☆Star",
+        "img": "https://cdn.myanimelist.net/images/characters/8/28726.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Robert E. O. Speedwagon",
+        "img": "https://cdn.myanimelist.net/images/characters/7/196031.jpg",
+        "title": "JoJo no Kimyou na Bouken (TV)"
+    },
+    {
+        "name": "Hikaru Hitachiin",
+        "img": "https://cdn.myanimelist.net/images/characters/2/48468.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Gin Ichimaru",
+        "img": "https://cdn.myanimelist.net/images/characters/12/98077.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Yuuko Kanoe",
+        "img": "https://cdn.myanimelist.net/images/characters/16/164633.jpg",
+        "title": "Tasogare Otome x Amnesia"
+    },
+    {
+        "name": "Claire Stanfield",
+        "img": "https://cdn.myanimelist.net/images/characters/7/305647.jpg",
+        "title": "Baccano!"
+    },
+    {
+        "name": "Piccolo",
+        "img": "https://cdn.myanimelist.net/images/characters/8/45628.jpg",
+        "title": "Dragon Ball"
+    },
+    {
+        "name": "Ryouta Kise",
+        "img": "https://cdn.myanimelist.net/images/characters/16/246753.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Jinbe",
+        "img": "https://cdn.myanimelist.net/images/characters/15/307148.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Izayoi Sakamaki",
+        "img": "https://cdn.myanimelist.net/images/characters/10/192915.jpg",
+        "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?"
+    },
+    {
+        "name": "Kaname Kuran",
+        "img": "https://cdn.myanimelist.net/images/characters/7/59910.jpg",
+        "title": "Vampire Knight"
+    },
+    {
+        "name": "Kaito Kuroba",
+        "img": "https://cdn.myanimelist.net/images/characters/6/279396.jpg",
+        "title": "Meitantei Conan"
+    },
+    {
+        "name": "Mine",
+        "img": "https://cdn.myanimelist.net/images/characters/16/253097.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Mami Tomoe",
+        "img": "https://cdn.myanimelist.net/images/characters/14/141631.jpg",
+        "title": "Mahou Shoujo Madoka★Magica"
+    },
+    {
+        "name": "Nana Komatsu",
+        "img": "https://cdn.myanimelist.net/images/characters/4/88130.jpg",
+        "title": "Nana"
+    },
+    {
+        "name": "Haruka Nanase",
+        "img": "https://cdn.myanimelist.net/images/characters/2/203959.jpg",
+        "title": "Free!"
+    },
+    {
+        "name": "Twelve",
+        "img": "https://cdn.myanimelist.net/images/characters/10/251465.jpg",
+        "title": "Zankyou no Terror"
+    },
+    {
+        "name": "Minori Kushieda",
+        "img": "https://cdn.myanimelist.net/images/characters/11/514090.jpg",
+        "title": "Toradora!"
+    },
+    {
+        "name": "Mizore Shirayuki",
+        "img": "https://cdn.myanimelist.net/images/characters/9/52786.jpg",
+        "title": "Rosario to Vampire"
+    },
+    {
+        "name": "Winry Rockbell",
+        "img": "https://cdn.myanimelist.net/images/characters/15/84336.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Alex Louis Armstrong",
+        "img": "https://cdn.myanimelist.net/images/characters/2/71066.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Clare",
+        "img": "https://cdn.myanimelist.net/images/characters/16/72662.jpg",
+        "title": "Claymore"
+    },
+    {
+        "name": "Funny Valentine",
+        "img": "https://cdn.myanimelist.net/images/characters/16/286913.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+    },
+    {
+        "name": "Suzaku Kururugi",
+        "img": "https://cdn.myanimelist.net/images/characters/2/31564.jpg",
+        "title": "Code Geass: Hangyaku no Lelouch"
+    },
+    {
+        "name": "Ikuto Tsukiyomi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/69871.jpg",
+        "title": "Shugo Chara!"
+    },
+    {
+        "name": "Gen Asagiri",
+        "img": "https://cdn.myanimelist.net/images/characters/12/398561.jpg",
+        "title": "Dr. Stone"
+    },
+    {
+        "name": "Mirio Toogata",
+        "img": "https://cdn.myanimelist.net/images/characters/15/349440.jpg",
+        "title": "Boku no Hero Academia 3rd Season"
+    },
+    {
+        "name": "Yuuji Kazami",
+        "img": "https://cdn.myanimelist.net/images/characters/14/318431.jpg",
+        "title": "Grisaia no Kajitsu"
+    },
+    {
+        "name": "Yuki Souma",
+        "img": "https://cdn.myanimelist.net/images/characters/10/417954.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Niko Yazawa",
+        "img": "https://cdn.myanimelist.net/images/characters/9/200929.jpg",
+        "title": "Bokura no Live Kimi to no Life"
+    },
+    {
+        "name": "Mitsuri Kanroji",
+        "img": "https://cdn.myanimelist.net/images/characters/11/514229.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "Konjiki no Yami",
+        "img": "https://cdn.myanimelist.net/images/characters/11/226347.jpg",
+        "title": "To LOVE-Ru"
+    },
+    {
+        "name": "Fumino Furuhashi",
+        "img": "https://cdn.myanimelist.net/images/characters/9/363075.jpg",
+        "title": "Bokutachi wa Benkyou ga Dekinai"
+    },
+    {
+        "name": "Olivier Mira Armstrong",
+        "img": "https://cdn.myanimelist.net/images/characters/7/83953.jpg",
+        "title": "Fullmetal Alchemist: Brotherhood"
+    },
+    {
+        "name": "Chisa Kotegawa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/368040.jpg",
+        "title": "Grand Blue"
+    },
+    {
+        "name": "Hestia",
+        "img": "https://cdn.myanimelist.net/images/characters/16/285883.jpg",
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    {
+        "name": "Ichika Nakano",
+        "img": "https://cdn.myanimelist.net/images/characters/12/436646.jpg",
+        "title": "5-toubun no Hanayome"
+    },
+    {
+        "name": "Yuuri Katsuki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/322595.jpg",
+        "title": "Yuri!!! on Ice"
+    },
+    {
+        "name": "Neji Hyuuga",
+        "img": "https://cdn.myanimelist.net/images/characters/2/105538.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Noelle Silva",
+        "img": "https://cdn.myanimelist.net/images/characters/14/338844.jpg",
+        "title": "Black Clover"
+    },
+    {
+        "name": "Kyou Fujibayashi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/52002.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Sakura Yamauchi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/364192.jpg",
+        "title": "Kimi no Suizou wo Tabetai"
+    },
+    {
+        "name": "Miria Harvent",
+        "img": "https://cdn.myanimelist.net/images/characters/16/117857.jpg",
+        "title": "Baccano!"
+    },
+    {
+        "name": "Satoru Fujinuma",
+        "img": "https://cdn.myanimelist.net/images/characters/8/298512.jpg",
+        "title": "Boku dake ga Inai Machi"
+    },
+    {
+        "name": "Tomoe Koga",
+        "img": "https://cdn.myanimelist.net/images/characters/12/361762.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Dandy",
+        "img": "https://cdn.myanimelist.net/images/characters/7/231179.jpg",
+        "title": "Space☆Dandy"
+    },
+    {
+        "name": "Chihaya Ayase",
+        "img": "https://cdn.myanimelist.net/images/characters/7/136261.jpg",
+        "title": "Chihayafuru"
+    },
+    {
+        "name": "Kirino Kousaka",
+        "img": "https://cdn.myanimelist.net/images/characters/8/101419.jpg",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+    },
+    {
+        "name": "Guido Mista",
+        "img": "https://cdn.myanimelist.net/images/characters/12/380304.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+    },
+    {
+        "name": "Neferpitou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/253673.jpg",
+        "title": "Hunter x Hunter (2011)"
+    },
+    {
+        "name": "Future Trunks",
+        "img": "https://cdn.myanimelist.net/images/characters/5/375125.jpg",
+        "title": "Dragon Ball Z"
+    },
+    {
+        "name": "Beatrice",
+        "img": "https://cdn.myanimelist.net/images/characters/16/318556.jpg",
+        "title": "Umineko no Naku Koro ni"
+    },
+    {
+        "name": "Nate River",
+        "img": "https://cdn.myanimelist.net/images/characters/13/77339.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Misogi Kumagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/15/352595.jpg",
+        "title": "Medaka Box Abnormal"
+    },
+    {
+        "name": "Sylphiette",
+        "img": "https://cdn.myanimelist.net/images/characters/10/423669.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "Deidara",
+        "img": "https://cdn.myanimelist.net/images/characters/9/131319.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Kyouko Toshinou",
+        "img": "https://cdn.myanimelist.net/images/characters/2/516864.jpg",
+        "title": "Yuru Yuri"
+    },
+    {
+        "name": "Sumi Sakurasawa",
+        "img": "https://cdn.myanimelist.net/images/characters/9/484263.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Fuuko Ibuki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/79593.jpg",
+        "title": "Clannad"
+    },
+    {
+        "name": "Stocking Anarchy",
+        "img": "https://cdn.myanimelist.net/images/characters/8/101434.jpg",
+        "title": "Panty & Stocking with Garterbelt"
+    },
+    {
+        "name": "Alice Zuberg",
+        "img": "https://cdn.myanimelist.net/images/characters/7/348874.jpg",
+        "title": "Sword Art Online: Alicization"
+    },
+    {
+        "name": "Chise Hatori",
+        "img": "https://cdn.myanimelist.net/images/characters/15/330649.jpg",
+        "title": "Mahoutsukai no Yome: Hoshi Matsu Hito"
+    },
+    {
+        "name": "Nezumi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/123009.jpg",
+        "title": "No.6"
+    },
+    {
+        "name": "Yotsugi Ononoki",
+        "img": "https://cdn.myanimelist.net/images/characters/4/301226.jpg",
+        "title": "Nisemonogatari"
+    },
+    {
+        "name": "Hancock Boa",
+        "img": "https://cdn.myanimelist.net/images/characters/14/146013.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Juvia Lockser",
+        "img": "https://cdn.myanimelist.net/images/characters/12/262225.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Shirayuki",
+        "img": "https://cdn.myanimelist.net/images/characters/11/229461.jpg",
+        "title": "Akagami no Shirayuki-hime"
+    },
+    {
+        "name": "Fushi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/414023.jpg",
+        "title": "Fumetsu no Anata e"
+    },
+    {
+        "name": "Seras Victoria",
+        "img": "https://cdn.myanimelist.net/images/characters/15/98944.jpg",
+        "title": "Hellsing"
+    },
+    {
+        "name": "Yuu Kanda",
+        "img": "https://cdn.myanimelist.net/images/characters/9/68714.jpg",
+        "title": "D.Gray-man"
+    },
+    {
+        "name": "Ruka Sarashina",
+        "img": "https://cdn.myanimelist.net/images/characters/11/409385.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Mamimi Samejima",
+        "img": "https://cdn.myanimelist.net/images/characters/13/218999.jpg",
+        "title": "FLCL"
+    },
+    {
+        "name": "Meme Oshino",
+        "img": "https://cdn.myanimelist.net/images/characters/7/532734.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Satoru Fujinuma",
+        "img": "https://cdn.myanimelist.net/images/characters/8/298512.jpg",
+        "title": "Boku dake ga Inai Machi"
+    },
+    {
+        "name": "Tomoe Koga",
+        "img": "https://cdn.myanimelist.net/images/characters/12/361762.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Dandy",
+        "img": "https://cdn.myanimelist.net/images/characters/7/231179.jpg",
+        "title": "Space☆Dandy"
+    },
+    {
+        "name": "Chihaya Ayase",
+        "img": "https://cdn.myanimelist.net/images/characters/7/136261.jpg",
+        "title": "Chihayafuru"
+    },
+    {
+        "name": "Kirino Kousaka",
+        "img": "https://cdn.myanimelist.net/images/characters/8/101419.jpg",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+    },
+    {
+        "name": "Guido Mista",
+        "img": "https://cdn.myanimelist.net/images/characters/12/380304.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+    },
+    {
+        "name": "Neferpitou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/253673.jpg",
+        "title": "Hunter x Hunter (2011)"
+    },
+    {
+        "name": "Future Trunks",
+        "img": "https://cdn.myanimelist.net/images/characters/5/375125.jpg",
+        "title": "Dragon Ball Z"
+    },
+    {
+        "name": "Beatrice",
+        "img": "https://cdn.myanimelist.net/images/characters/16/318556.jpg",
+        "title": "Umineko no Naku Koro ni"
+    },
+    {
+        "name": "Nate River",
+        "img": "https://cdn.myanimelist.net/images/characters/13/77339.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Misogi Kumagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/15/352595.jpg",
+        "title": "Medaka Box Abnormal"
+    },
+    {
+        "name": "Sylphiette",
+        "img": "https://cdn.myanimelist.net/images/characters/10/423669.jpg",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    {
+        "name": "Deidara",
+        "img": "https://cdn.myanimelist.net/images/characters/9/131319.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Kyouko Toshinou",
+        "img": "https://cdn.myanimelist.net/images/characters/2/516864.jpg",
+        "title": "Yuru Yuri"
+    },
+    {
+        "name": "Sumi Sakurasawa",
+        "img": "https://cdn.myanimelist.net/images/characters/9/484263.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Fuuko Ibuki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/79593.jpg",
+        "title": "Clannad"
+    },
+    {
+        "name": "Stocking Anarchy",
+        "img": "https://cdn.myanimelist.net/images/characters/8/101434.jpg",
+        "title": "Panty & Stocking with Garterbelt"
+    },
+    {
+        "name": "Alice Zuberg",
+        "img": "https://cdn.myanimelist.net/images/characters/7/348874.jpg",
+        "title": "Sword Art Online: Alicization"
+    },
+    {
+        "name": "Chise Hatori",
+        "img": "https://cdn.myanimelist.net/images/characters/15/330649.jpg",
+        "title": "Mahoutsukai no Yome: Hoshi Matsu Hito"
+    },
+    {
+        "name": "Nezumi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/123009.jpg",
+        "title": "No.6"
+    },
+    {
+        "name": "Yotsugi Ononoki",
+        "img": "https://cdn.myanimelist.net/images/characters/4/301226.jpg",
+        "title": "Nisemonogatari"
+    },
+    {
+        "name": "Hancock Boa",
+        "img": "https://cdn.myanimelist.net/images/characters/14/146013.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Juvia Lockser",
+        "img": "https://cdn.myanimelist.net/images/characters/12/262225.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Shirayuki",
+        "img": "https://cdn.myanimelist.net/images/characters/11/229461.jpg",
+        "title": "Akagami no Shirayuki-hime"
+    },
+    {
+        "name": "Fushi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/414023.jpg",
+        "title": "Fumetsu no Anata e"
+    },
+    {
+        "name": "Seras Victoria",
+        "img": "https://cdn.myanimelist.net/images/characters/15/98944.jpg",
+        "title": "Hellsing"
+    },
+    {
+        "name": "Yuu Kanda",
+        "img": "https://cdn.myanimelist.net/images/characters/9/68714.jpg",
+        "title": "D.Gray-man"
+    },
+    {
+        "name": "Ruka Sarashina",
+        "img": "https://cdn.myanimelist.net/images/characters/11/409385.jpg",
+        "title": "Kanojo, Okarishimasu"
+    },
+    {
+        "name": "Mamimi Samejima",
+        "img": "https://cdn.myanimelist.net/images/characters/13/218999.jpg",
+        "title": "FLCL"
+    },
+    {
+        "name": "Meme Oshino",
+        "img": "https://cdn.myanimelist.net/images/characters/7/532734.jpg",
+        "title": "Bakemonogatari"
+    },
+    {
+        "name": "Naru Kotoishi",
+        "img": "https://cdn.myanimelist.net/images/characters/14/271093.jpg",
+        "title": "Barakamon"
+    },
+    {
+        "name": "Nijika Ijichi",
+        "img": "https://cdn.myanimelist.net/images/characters/16/491305.jpg",
+        "title": "Bocchi the Rock!"
+    },
+    {
+        "name": "Nicolas Brown",
+        "img": "https://cdn.myanimelist.net/images/characters/4/222985.jpg",
+        "title": "Gangsta."
+    },
+    {
+        "name": "Meguru Bachira",
+        "img": "https://cdn.myanimelist.net/images/characters/7/498284.jpg",
+        "title": "Blue Lock"
+    },
+    {
+        "name": "Ai Enma",
+        "img": "https://cdn.myanimelist.net/images/characters/13/250047.jpg",
+        "title": "Jigoku Shoujo"
+    },
+    {
+        "name": "Mikoto Suou",
+        "img": "https://cdn.myanimelist.net/images/characters/15/189718.jpg",
+        "title": "K"
+    },
+    {
+        "name": "Satanichia Kurumizawa McDowell",
+        "img": "https://cdn.myanimelist.net/images/characters/12/339560.jpg",
+        "title": "Gabriel DropOut"
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "img": "https://cdn.myanimelist.net/images/characters/14/272139.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Franken Stein",
+        "img": "https://cdn.myanimelist.net/images/characters/3/524076.jpg",
+        "title": "Soul Eater"
+    },
+    {
+        "name": "Kyouya Ootori",
+        "img": "https://cdn.myanimelist.net/images/characters/13/90675.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Totoro",
+        "img": "https://cdn.myanimelist.net/images/characters/16/81225.jpg",
+        "title": "Tonari no Totoro"
+    },
+    {
+        "name": "Chizuru Hishiro",
+        "img": "https://cdn.myanimelist.net/images/characters/15/493288.jpg",
+        "title": "ReLIFE"
+    },
+    {
+        "name": "Angelo Lagusa",
+        "img": "https://cdn.myanimelist.net/images/characters/13/451351.jpg",
+        "title": "91 Days"
+    },
+    {
+        "name": "Eiji Niizuma",
+        "img": "https://cdn.myanimelist.net/images/characters/14/175495.jpg",
+        "title": "Bakuman."
+    },
+    {
+        "name": "Akane Kurokawa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/512681.jpg",
+        "title": "\"Oshi no Ko\""
+    },
+    {
+        "name": "Ryou Yamada",
+        "img": "https://cdn.myanimelist.net/images/characters/16/491303.jpg",
+        "title": "Bocchi the Rock!"
+    },
+    {
+        "name": "Atsuko Kagari",
+        "img": "https://cdn.myanimelist.net/images/characters/3/288756.jpg",
+        "title": "Little Witch Academia"
+    },
+    {
+        "name": "Yatora Yaguchi",
+        "img": "https://cdn.myanimelist.net/images/characters/9/391088.jpg",
+        "title": "Blue Period"
+    },
+    {
+        "name": "Shiori Sakurazaka",
+        "img": "https://cdn.myanimelist.net/images/characters/10/483452.jpg",
+        "title": "Fuufu Ijou, Koibito Miman."
+    },
+    {
+        "name": "Jonathan Joestar",
+        "img": "https://cdn.myanimelist.net/images/characters/10/182715.jpg",
+        "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+        "name": "Shinsuke Takasugi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/303201.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Keisuke Baji",
+        "img": "https://cdn.myanimelist.net/images/characters/10/387998.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Kuroyukihime",
+        "img": "https://cdn.myanimelist.net/images/characters/3/185407.jpg",
+        "title": "Accel World"
+    },
+    {
+        "name": "Utena Tenjou",
+        "img": "https://cdn.myanimelist.net/images/characters/4/332915.jpg",
+        "title": "Shoujo Kakumei Utena"
+    },
+    {
+        "name": "Akio Furukawa",
+        "img": "https://cdn.myanimelist.net/images/characters/12/534708.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Shinichi Okazaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/203311.jpg",
+        "title": "Nana"
+    },
+    {
+        "name": "Uta",
+        "img": "https://cdn.myanimelist.net/images/characters/13/259327.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Yin",
+        "img": "https://cdn.myanimelist.net/images/characters/2/80129.jpg",
+        "title": "Darker than Black: Kuro no Keiyakusha"
+    },
+    {
+        "name": "Sadao Maou",
+        "img": "https://cdn.myanimelist.net/images/characters/3/183237.jpg",
+        "title": "Hataraku Maou-sama!"
+    },
+    {
+        "name": "Gin",
+        "img": "https://cdn.myanimelist.net/images/characters/2/160251.jpg",
+        "title": "Hotarubi no Mori e"
+    },
+    {
+        "name": "Haru Yoshida",
+        "img": "https://cdn.myanimelist.net/images/characters/3/183461.jpg",
+        "title": "Tonari no Kaibutsu-kun"
+    },
+    {
+        "name": "Feitan Portor",
+        "img": "https://cdn.myanimelist.net/images/characters/10/174721.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Kaoru Hitachiin",
+        "img": "https://cdn.myanimelist.net/images/characters/9/48469.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Shin-ah",
+        "img": "https://cdn.myanimelist.net/images/characters/12/312327.jpg",
+        "title": "Akatsuki no Yona"
+    },
+    {
+        "name": "Sena Kashiwazaki",
+        "img": "https://cdn.myanimelist.net/images/characters/13/132289.jpg",
+        "title": "Boku wa Tomodachi ga Sukunai"
+    },
+    {
+        "name": "Hinata Kawamoto",
+        "img": "https://cdn.myanimelist.net/images/characters/6/320379.jpg",
+        "title": "3-gatsu no Lion"
+    },
+    {
+        "name": "Aru Akise",
+        "img": "https://cdn.myanimelist.net/images/characters/13/144245.jpg",
+        "title": "Mirai Nikki (TV)"
+    },
+    {
+        "name": "Yuu Koito",
+        "img": "https://cdn.myanimelist.net/images/characters/9/335726.jpg",
+        "title": "Yagate Kimi ni Naru"
+    },
+    {
+        "name": "Hirotaka Nifuji",
+        "img": "https://cdn.myanimelist.net/images/characters/3/348857.jpg",
+        "title": "Wotaku ni Koi wa Muzukashii"
+    },
+    {
+        "name": "Chii",
+        "img": "https://cdn.myanimelist.net/images/characters/6/92991.jpg",
+        "title": "Chobits"
+    },
+    {
+        "name": "Nicholas D. Wolfwood",
+        "img": "https://cdn.myanimelist.net/images/characters/2/89610.jpg",
+        "title": "Trigun"
+    },
+    {
+        "name": "Taki Tachibana",
+        "img": "https://cdn.myanimelist.net/images/characters/6/311593.jpg",
+        "title": "Kimi no Na wa."
+    },
+    {
+        "name": "Mikoto Urabe",
+        "img": "https://cdn.myanimelist.net/images/characters/5/168007.jpg",
+        "title": "Nazo no Kanojo X"
+    },
+    {
+        "name": "Mihael Keehl",
+        "img": "https://cdn.myanimelist.net/images/characters/2/31498.jpg",
+        "title": "Death Note"
+    },
+    {
+        "name": "Muichirou Tokitou",
+        "img": "https://cdn.myanimelist.net/images/characters/5/464903.jpg",
+        "title": "Kimetsu no Yaiba"
+    },
+    {
+        "name": "San",
+        "img": "https://cdn.myanimelist.net/images/characters/10/198811.jpg",
+        "title": "Mononoke Hime"
+    },
+    {
+        "name": "Tanaka",
+        "img": "https://cdn.myanimelist.net/images/characters/3/301027.jpg",
+        "title": "Tanaka-kun wa Itsumo Kedaruge"
+    },
+    {
+        "name": "Beatrice",
+        "img": "https://cdn.myanimelist.net/images/characters/11/315230.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Ami Kawashima",
+        "img": "https://cdn.myanimelist.net/images/characters/3/103093.jpg",
+        "title": "Toradora!"
+    },
+    {
+        "name": "Yami Yuugi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/78304.jpg",
+        "title": "Yu☆Gi☆Oh! Duel Monsters"
+    },
+    {
+        "name": "Suzuha Amane",
+        "img": "https://cdn.myanimelist.net/images/characters/3/148223.jpg",
+        "title": "Steins;Gate"
+    },
+    {
+        "name": "Kei Kurono",
+        "img": "https://cdn.myanimelist.net/images/characters/16/513810.jpg",
+        "title": "Gantz"
+    },
+    {
+        "name": "Shichika Yasuri",
+        "img": "https://cdn.myanimelist.net/images/characters/10/99233.jpg",
+        "title": "Katanagatari"
+    },
+    {
+        "name": "Eiji Okumura",
+        "img": "https://cdn.myanimelist.net/images/characters/9/361570.jpg",
+        "title": "Banana Fish"
+    },
+    {
+        "name": "Keigo Takami",
+        "img": "https://cdn.myanimelist.net/images/characters/5/408739.jpg",
+        "title": "Boku no Hero Academia 4th Season"
+    },
+    {
+        "name": "Moka Akashiya",
+        "img": "https://cdn.myanimelist.net/images/characters/11/78827.jpg",
+        "title": "Rosario to Vampire"
+    },
+    {
+        "name": "Ouzen",
+        "img": "https://cdn.myanimelist.net/images/characters/11/358342.jpg",
+        "title": "Made in Abyss"
+    },
+    {
+        "name": "Mumen Rider",
+        "img": "https://cdn.myanimelist.net/images/characters/15/344059.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Ai Ooto",
+        "img": "https://cdn.myanimelist.net/images/characters/10/431621.jpg",
+        "title": "Wonder Egg Priority"
+    },
+    {
+        "name": "Tatsumi Oga",
+        "img": "https://cdn.myanimelist.net/images/characters/14/154439.jpg",
+        "title": "Beelzebub: Hirotta Akachan wa Daimaou!?"
+    },
+    {
+        "name": "Envy",
+        "img": "https://cdn.myanimelist.net/images/characters/14/79027.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Megumi Noda",
+        "img": "https://cdn.myanimelist.net/images/characters/11/92497.jpg",
+        "title": "Nodame Cantabile"
+    },
+    {
+        "name": "Junko Enoshima",
+        "img": "https://cdn.myanimelist.net/images/characters/6/324151.jpg",
+        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+    },
+    {
+        "name": "Taichi Mashima",
+        "img": "https://cdn.myanimelist.net/images/characters/6/239401.jpg",
+        "title": "Chihayafuru"
+    },
+    {
+        "name": "Nadeshiko Kagamihara",
+        "img": "https://cdn.myanimelist.net/images/characters/2/366169.jpg",
+        "title": "Yuru Camp△"
+    },
+    {
+        "name": "Rosinante Donquixote",
+        "img": "https://cdn.myanimelist.net/images/characters/13/288038.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Pochita",
+        "img": "https://cdn.myanimelist.net/images/characters/7/391655.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Langa Hasegawa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/422620.jpg",
+        "title": "SK∞"
+    },
+    {
+        "name": "Arsene Lupin III",
+        "img": "https://cdn.myanimelist.net/images/characters/5/313502.jpg",
+        "title": "Lupin III"
+    },
+    {
+        "name": "Hiyori Iki",
+        "img": "https://cdn.myanimelist.net/images/characters/14/228607.jpg",
+        "title": "Noragami"
+    },
+    {
+        "name": "Yui",
+        "img": "https://cdn.myanimelist.net/images/characters/11/150391.jpg",
+        "title": "Angel Beats!"
+    },
+    {
+        "name": "Taiga Kagami",
+        "img": "https://cdn.myanimelist.net/images/characters/2/169361.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Elias Ainsworth",
+        "img": "https://cdn.myanimelist.net/images/characters/4/278307.jpg",
+        "title": "Mahoutsukai no Yome: Hoshi Matsu Hito"
+    },
+    {
+        "name": "Gilbert Nightray",
+        "img": "https://cdn.myanimelist.net/images/characters/4/308572.jpg",
+        "title": "Pandora Hearts"
+    },
+    {
+        "name": "Kobayashi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/456442.jpg",
+        "title": "Kobayashi-san Chi no Maid Dragon"
+    },
+    {
+        "name": "Yuuko Aioi",
+        "img": "https://cdn.myanimelist.net/images/characters/15/114020.jpg",
+        "title": "Nichijou: Nichijou no 0-wa"
+    },
+    {
+        "name": "Orihime Inoue",
+        "img": "https://cdn.myanimelist.net/images/characters/9/505076.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Shouta Kazehaya",
+        "img": "https://cdn.myanimelist.net/images/characters/9/76844.jpg",
+        "title": "Kimi ni Todoke"
+    },
+    {
+        "name": "Iori Kitahara",
+        "img": "https://cdn.myanimelist.net/images/characters/10/387495.jpg",
+        "title": "Grand Blue"
+    },
+    {
+        "name": "Seto Kaiba",
+        "img": "https://cdn.myanimelist.net/images/characters/13/125445.jpg",
+        "title": "Yu☆Gi☆Oh! Duel Monsters"
+    },
+    {
+        "name": "Kagami Hiiragi",
+        "img": "https://cdn.myanimelist.net/images/characters/10/40319.jpg",
+        "title": "Lucky☆Star"
+    },
+    {
+        "name": "Jirou Souzousuke Shunsui Kyouraku",
+        "img": "https://cdn.myanimelist.net/images/characters/14/33242.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Tsukuyo",
+        "img": "https://cdn.myanimelist.net/images/characters/12/115534.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Guren Ichinose",
+        "img": "https://cdn.myanimelist.net/images/characters/5/257901.jpg",
+        "title": "Owari no Seraph"
+    },
+    {
+        "name": "Yuzuru Otonashi",
+        "img": "https://cdn.myanimelist.net/images/characters/14/434995.jpg",
+        "title": "Angel Beats!"
+    },
+    {
+        "name": "Shinra Kusakabe",
+        "img": "https://cdn.myanimelist.net/images/characters/11/384757.jpg",
+        "title": "Enen no Shouboutai"
+    },
+    {
+        "name": "Taizou Hasegawa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/115541.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Alibaba Saluja",
+        "img": "https://cdn.myanimelist.net/images/characters/2/171933.jpg",
+        "title": "Magi: The Labyrinth of Magic"
+    },
+    {
+        "name": "Ikaros",
+        "img": "https://cdn.myanimelist.net/images/characters/7/120790.jpg",
+        "title": "Sora no Otoshimono"
+    },
+    {
+        "name": "Renji Abarai",
+        "img": "https://cdn.myanimelist.net/images/characters/10/171877.jpg",
+        "title": "Bleach"
+    },
+    {
+        "name": "Cloud Strife",
+        "img": "https://cdn.myanimelist.net/images/characters/14/95291.jpg",
+        "title": "Final Fantasy VII: Advent Children"
+    },
+    {
+        "name": "Jellal Fernandes",
+        "img": "https://cdn.myanimelist.net/images/characters/11/80782.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Ushio Okazaki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/48244.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Nausicaä",
+        "img": "https://cdn.myanimelist.net/images/characters/13/310238.jpg",
+        "title": "Kaze no Tani no Nausicaä"
+    },
+    {
+        "name": "Sagiri Izumi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/362254.jpg",
+        "title": "Eromanga-sensei"
+    },
+    {
+        "name": "Mary Saotome",
+        "img": "https://cdn.myanimelist.net/images/characters/7/467160.jpg",
+        "title": "Kakegurui"
+    },
+    {
+        "name": "Cheng Hua",
+        "img": "https://cdn.myanimelist.net/images/characters/2/394616.jpg",
+        "title": "Tian Guan Cifu"
+    },
+    {
+        "name": "Xin",
+        "img": "https://cdn.myanimelist.net/images/characters/2/241101.jpg",
+        "title": "Kingdom"
+    },
+    {
+        "name": "Kenshirou",
+        "img": "https://cdn.myanimelist.net/images/characters/8/286109.jpg",
+        "title": "Hokuto no Ken"
+    },
+    {
+        "name": "Hajime Nagumo",
+        "img": "https://cdn.myanimelist.net/images/characters/12/382159.jpg",
+        "title": "Arifureta Shokugyou de Sekai Saikyou"
+    },
+    {
+        "name": "Nine",
+        "img": "https://cdn.myanimelist.net/images/characters/2/252597.jpg",
+        "title": "Zankyou no Terror"
+    },
+    {
+        "name": "Kazuya Miyuki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/225757.jpg",
+        "title": "Diamond no Ace"
+    },
+    {
+        "name": "Yoichi Isagi",
+        "img": "https://cdn.myanimelist.net/images/characters/4/498285.jpg",
+        "title": "Blue Lock"
+    },
+    {
+        "name": "Miyako Shikimori",
+        "img": "https://cdn.myanimelist.net/images/characters/5/458966.jpg",
+        "title": "Kawaii dake ja Nai Shikimori-san"
+    },
+    {
+        "name": "Hae-In Cha",
+        "img": "https://cdn.myanimelist.net/images/characters/15/531268.jpg",
+        "title": "Echo"
+    },
+    {
+        "name": "Ikki Kurogane",
+        "img": "https://cdn.myanimelist.net/images/characters/11/345305.jpg",
+        "title": "Rakudai Kishi no Cavalry"
+    },
+    {
+        "name": "Mikoto Mikoshiba",
+        "img": "https://cdn.myanimelist.net/images/characters/3/307566.jpg",
+        "title": "Gekkan Shoujo Nozaki-kun"
+    },
+    {
+        "name": "Iris",
+        "img": "https://cdn.myanimelist.net/images/characters/9/384768.jpg",
+        "title": "Enen no Shouboutai"
+    },
+    {
+        "name": "Balalaika",
+        "img": "https://cdn.myanimelist.net/images/characters/14/308173.jpg",
+        "title": "Black Lagoon"
+    },
+    {
+        "name": "Kaori Shirasaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/299734.jpg",
+        "title": "Arifureta Shokugyou de Sekai Saikyou"
+    },
+    {
+        "name": "Rokurouta Sakuragi",
+        "img": "https://cdn.myanimelist.net/images/characters/2/236699.jpg",
+        "title": "Rainbow: Nisha Rokubou no Shichinin"
+    },
+    {
+        "name": "Asa Mitaka",
+        "img": "https://cdn.myanimelist.net/images/characters/13/509046.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Kei Karuizawa",
+        "img": "https://cdn.myanimelist.net/images/characters/4/349510.jpg",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    },
+    {
+        "name": "Eucliwood Hellscythe",
+        "img": "https://cdn.myanimelist.net/images/characters/12/167045.jpg",
+        "title": "Kore wa Zombie desu ka?"
+    },
+    {
+        "name": "Zeke",
+        "img": "https://cdn.myanimelist.net/images/characters/13/489878.jpg",
+        "title": "Shingeki no Kyojin Season 2"
+    },
+    {
+        "name": "Kayo Hinazuki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/307107.jpg",
+        "title": "Boku dake ga Inai Machi"
+    },
+    {
+        "name": "Akatsuki",
+        "img": "https://cdn.myanimelist.net/images/characters/14/200453.jpg",
+        "title": "Log Horizon"
+    },
+    {
+        "name": "Akari Mizunashi",
+        "img": "https://cdn.myanimelist.net/images/characters/4/322412.jpg",
+        "title": "Aria the Animation"
+    },
+    {
+        "name": "Lala Satalin Deviluke",
+        "img": "https://cdn.myanimelist.net/images/characters/11/113782.jpg",
+        "title": "To LOVE-Ru"
+    },
+    {
+        "name": "Risa Koizumi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/36357.jpg",
+        "title": "Lovely★Complex"
+    },
+    {
+        "name": "Stella Vermillion",
+        "img": "https://cdn.myanimelist.net/images/characters/10/320409.jpg",
+        "title": "Rakudai Kishi no Cavalry"
+    },
+    {
+        "name": "Pieck Finger",
+        "img": "https://cdn.myanimelist.net/images/characters/4/425880.jpg",
+        "title": "Shingeki no Kyojin Season 3 Part 2"
+    },
+    {
+        "name": "Atsushi Nakajima",
+        "img": "https://cdn.myanimelist.net/images/characters/12/307235.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Obi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/300768.jpg",
+        "title": "Akagami no Shirayuki-hime"
+    },
+    {
+        "name": "Milim Nava",
+        "img": "https://cdn.myanimelist.net/images/characters/6/447552.jpg",
+        "title": "Tensei shitara Slime Datta Ken"
+    },
+    {
+        "name": "Saichi Sugimoto",
+        "img": "https://cdn.myanimelist.net/images/characters/13/354183.jpg",
+        "title": "Golden Kamuy"
+    },
+    {
+        "name": "Mahiru Shiina",
+        "img": "https://cdn.myanimelist.net/images/characters/12/461554.jpg",
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+    },
+    {
+        "name": "Fubuki",
+        "img": "https://cdn.myanimelist.net/images/characters/10/473637.jpg",
+        "title": "One Punch Man"
+    },
+    {
+        "name": "Alice",
+        "img": "https://cdn.myanimelist.net/images/characters/3/324294.jpg",
+        "title": "Pandora Hearts"
+    },
+    {
+        "name": "You Asakura",
+        "img": "https://cdn.myanimelist.net/images/characters/4/60123.jpg",
+        "title": "Shaman King"
+    },
+    {
+        "name": "Denki Kaminari",
+        "img": "https://cdn.myanimelist.net/images/characters/10/329527.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Eugeo",
+        "img": "https://cdn.myanimelist.net/images/characters/4/367313.jpg",
+        "title": "Sword Art Online: Alicization"
+    },
+    {
+        "name": "Sakamoto",
+        "img": "https://cdn.myanimelist.net/images/characters/13/392039.jpg",
+        "title": "Sakamoto desu ga?"
+    },
+    {
+        "name": "Kagome Higurashi",
+        "img": "https://cdn.myanimelist.net/images/characters/13/41189.jpg",
+        "title": "InuYasha"
+    },
+    {
+        "name": "Senko",
+        "img": "https://cdn.myanimelist.net/images/characters/12/387423.jpg",
+        "title": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+        "name": "Alice Nakiri",
+        "img": "https://cdn.myanimelist.net/images/characters/16/285712.jpg",
+        "title": "Shokugeki no Souma"
+    },
+    {
+        "name": "Hayato Gokudera",
+        "img": "https://cdn.myanimelist.net/images/characters/8/61975.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Schwi Dola",
+        "img": "https://cdn.myanimelist.net/images/characters/16/434615.jpg",
+        "title": "No Game No Life: Zero"
+    },
+    {
+        "name": "Sagiri Yamada Asaemon",
+        "img": "https://cdn.myanimelist.net/images/characters/8/497169.jpg",
+        "title": "Jigokuraku"
+    },
+    {
+        "name": "Watashi",
+        "img": "https://cdn.myanimelist.net/images/characters/7/523663.jpg",
+        "title": "Jinrui wa Suitai Shimashita"
+    },
+    {
+        "name": "Hifumi Takimoto",
+        "img": "https://cdn.myanimelist.net/images/characters/4/311601.jpg",
+        "title": "New Game!"
+    },
+    {
+        "name": "Daisuke Kanbe",
+        "img": "https://cdn.myanimelist.net/images/characters/6/398819.jpg",
+        "title": "Fugou Keiji: Balance:Unlimited"
+    },
+    {
+        "name": "Nanami Aoyama",
+        "img": "https://cdn.myanimelist.net/images/characters/4/198773.jpg",
+        "title": "Sakura-sou no Pet na Kanojo"
+    },
+    {
+        "name": "Sakamoto",
+        "img": "https://cdn.myanimelist.net/images/characters/2/112679.jpg",
+        "title": "Nichijou: Nichijou no 0-wa"
+    },
+    {
+        "name": "Ryou Asuka",
+        "img": "https://cdn.myanimelist.net/images/characters/7/273317.jpg",
+        "title": "Devilman: Tanjou-hen"
+    },
+    {
+        "name": "Nozomi Toujou",
+        "img": "https://cdn.myanimelist.net/images/characters/10/295027.jpg",
+        "title": "Bokura no Live Kimi to no Life"
+    },
+    {
+        "name": "Kojirou Sasaki",
+        "img": "https://cdn.myanimelist.net/images/characters/14/76211.jpg",
+        "title": "Vagabond"
+    },
+    {
+        "name": "Seishirou Nagi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/498287.jpg",
+        "title": "Blue Lock"
+    },
+    {
+        "name": "Gajeel Redfox",
+        "img": "https://cdn.myanimelist.net/images/characters/5/99350.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Keiji Akaashi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/417876.jpg",
+        "title": "Haikyuu!! Second Season"
+    },
+    {
+        "name": "Aiko Tanaka",
+        "img": "https://cdn.myanimelist.net/images/characters/5/158639.jpg",
+        "title": "Oyasumi Punpun"
+    },
+    {
+        "name": "Tatsumi",
+        "img": "https://cdn.myanimelist.net/images/characters/12/252829.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Nia Teppelin",
+        "img": "https://cdn.myanimelist.net/images/characters/7/50690.jpg",
+        "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+        "name": "Akira Fudou",
+        "img": "https://cdn.myanimelist.net/images/characters/13/348998.jpg",
+        "title": "Devilman"
+    },
+    {
+        "name": "Yuuichirou Hyakuya",
+        "img": "https://cdn.myanimelist.net/images/characters/14/282378.jpg",
+        "title": "Owari no Seraph"
+    },
+    {
+        "name": "Sei Handa",
+        "img": "https://cdn.myanimelist.net/images/characters/14/510429.jpg",
+        "title": "Barakamon"
+    },
+    {
+        "name": "Hatsuharu Souma",
+        "img": "https://cdn.myanimelist.net/images/characters/6/405419.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Megumi Tadokoro",
+        "img": "https://cdn.myanimelist.net/images/characters/13/339622.jpg",
+        "title": "Shokugeki no Souma"
+    },
+    {
+        "name": "Kumoko",
+        "img": "https://cdn.myanimelist.net/images/characters/10/423671.jpg",
+        "title": "Kumo desu ga, Nani ka?"
+    },
+    {
+        "name": "Thorkell",
+        "img": "https://cdn.myanimelist.net/images/characters/10/437129.jpg",
+        "title": "Vinland Saga"
+    },
+    {
+        "name": "David Martinez",
+        "img": "https://cdn.myanimelist.net/images/characters/11/483437.jpg",
+        "title": "Cyberpunk: Edgerunners"
+    },
+    {
+        "name": "Miyuki Shiba",
+        "img": "https://cdn.myanimelist.net/images/characters/4/240187.jpg",
+        "title": "Mahouka Koukou no Rettousei"
+    },
+    {
+        "name": "Ram",
+        "img": "https://cdn.myanimelist.net/images/characters/15/306390.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Hina Chouno",
+        "img": "https://cdn.myanimelist.net/images/characters/16/531079.jpg",
+        "title": "Ao no Hako"
+    },
+    {
+        "name": "Reina Kousaka",
+        "img": "https://cdn.myanimelist.net/images/characters/5/354305.jpg",
+        "title": "Hibike! Euphonium"
+    },
+    {
+        "name": "Hidenori Tabata",
+        "img": "https://cdn.myanimelist.net/images/characters/10/159561.jpg",
+        "title": "Danshi Koukousei no Nichijou"
+    },
+    {
+        "name": "Zen Wistalia",
+        "img": "https://cdn.myanimelist.net/images/characters/5/229453.jpg",
+        "title": "Akagami no Shirayuki-hime"
+    },
+    {
+        "name": "Leonardo Watch",
+        "img": "https://cdn.myanimelist.net/images/characters/12/285427.jpg",
+        "title": "Kekkai Sensen"
+    },
+    {
+        "name": "Hanabi Yasuraoka",
+        "img": "https://cdn.myanimelist.net/images/characters/7/318163.jpg",
+        "title": "Kuzu no Honkai"
+    },
+    {
+        "name": "Tatsu",
+        "img": "https://cdn.myanimelist.net/images/characters/8/499337.jpg",
+        "title": "Gokushufudou"
+    },
+    {
+        "name": "Isuzu Sento",
+        "img": "https://cdn.myanimelist.net/images/characters/7/265243.jpg",
+        "title": "Amagi Brilliant Park"
+    },
+    {
+        "name": "Shuu Ouma",
+        "img": "https://cdn.myanimelist.net/images/characters/14/139133.jpg",
+        "title": "Guilty Crown"
+    },
+    {
+        "name": "Baki Hanma",
+        "img": "https://cdn.myanimelist.net/images/characters/11/522460.jpg",
+        "title": "Grappler Baki (TV)"
+    },
+    {
+        "name": "Chiyo Sakura",
+        "img": "https://cdn.myanimelist.net/images/characters/3/307375.jpg",
+        "title": "Gekkan Shoujo Nozaki-kun"
+    },
+    {
+        "name": "Shuu Tsukiyama",
+        "img": "https://cdn.myanimelist.net/images/characters/8/296873.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Mereoleona Vermillion",
+        "img": "https://cdn.myanimelist.net/images/characters/4/375601.jpg",
+        "title": "Black Clover"
+    },
+    {
+        "name": "Himeno",
+        "img": "https://cdn.myanimelist.net/images/characters/12/386392.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Lina Inverse",
+        "img": "https://cdn.myanimelist.net/images/characters/2/38218.jpg",
+        "title": "Slayers"
+    },
+    {
+        "name": "Hana Midorikawa",
+        "img": "https://cdn.myanimelist.net/images/characters/2/508311.jpg",
+        "title": "Prison School"
+    },
+    {
+        "name": "Fern",
+        "img": "https://cdn.myanimelist.net/images/characters/13/519083.jpg",
+        "title": "Sousou no Frieren"
+    },
+    {
+        "name": "Hideyoshi Nagachika",
+        "img": "https://cdn.myanimelist.net/images/characters/7/290838.jpg",
+        "title": "Tokyo Ghoul"
+    },
+    {
+        "name": "Haku",
+        "img": "https://cdn.myanimelist.net/images/characters/16/480331.jpg",
+        "title": "Sen to Chihiro no Kamikakushi"
+    },
+    {
+        "name": "Caiman",
+        "img": "https://cdn.myanimelist.net/images/characters/3/196867.jpg",
+        "title": "Dorohedoro"
+    },
+    {
+        "name": "Orochimaru",
+        "img": "https://cdn.myanimelist.net/images/characters/3/162089.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Misuzu Gundou",
+        "img": "https://cdn.myanimelist.net/images/characters/16/500028.jpg",
+        "title": "Tomo-chan wa Onnanoko!"
+    },
+    {
+        "name": "Lucy Maud Montgomery",
+        "img": "https://cdn.myanimelist.net/images/characters/6/307250.jpg",
+        "title": "Bungou Stray Dogs"
+    },
+    {
+        "name": "Aladdin",
+        "img": "https://cdn.myanimelist.net/images/characters/4/186851.jpg",
+        "title": "Magi: The Labyrinth of Magic"
+    },
+    {
+        "name": "Black★Rock Shooter",
+        "img": "https://cdn.myanimelist.net/images/characters/7/96698.jpg",
+        "title": "Black★Rock Shooter (OVA)"
+    },
+    {
+        "name": "Hinagiku Katsura",
+        "img": "https://cdn.myanimelist.net/images/characters/10/90472.jpg",
+        "title": "Hayate no Gotoku!"
+    },
+    {
+        "name": "Chtholly Nota Seniorious",
+        "img": "https://cdn.myanimelist.net/images/characters/16/327407.jpg",
+        "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+    },
+    {
+        "name": "Heinrich Lunge",
+        "img": "https://cdn.myanimelist.net/images/characters/13/272131.jpg",
+        "title": "Monster"
+    },
+    {
+        "name": "Oscar François de Jarjayes",
+        "img": "https://cdn.myanimelist.net/images/characters/15/266589.jpg",
+        "title": "Versailles no Bara"
+    },
+    {
+        "name": "Krista Lenz",
+        "img": "https://cdn.myanimelist.net/images/characters/16/216967.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Sawa Nakamura",
+        "img": "https://cdn.myanimelist.net/images/characters/7/344172.jpg",
+        "title": "Aku no Hana"
+    },
+    {
+        "name": "Tamaki Amajiki",
+        "img": "https://cdn.myanimelist.net/images/characters/14/409263.jpg",
+        "title": "Boku no Hero Academia 3rd Season"
+    },
+    {
+        "name": "Van Hohenheim",
+        "img": "https://cdn.myanimelist.net/images/characters/3/80676.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Fai D. Flourite",
+        "img": "https://cdn.myanimelist.net/images/characters/12/27431.jpg",
+        "title": "Tsubasa Chronicle"
+    },
+    {
+        "name": "Urara Shiraishi",
+        "img": "https://cdn.myanimelist.net/images/characters/7/281783.jpg",
+        "title": "Yamada-kun to 7-nin no Majo PV"
+    },
+    {
+        "name": "Ritsuka Uenoyama",
+        "img": "https://cdn.myanimelist.net/images/characters/11/388311.jpg",
+        "title": "Given"
+    },
+    {
+        "name": "Shion Sonozaki",
+        "img": "https://cdn.myanimelist.net/images/characters/12/421325.jpg",
+        "title": "Higurashi no Naku Koro ni"
+    },
+    {
+        "name": "Kotori Minami",
+        "img": "https://cdn.myanimelist.net/images/characters/3/201135.jpg",
+        "title": "Bokura no Live Kimi to no Life"
+    },
+    {
+        "name": "Kaede Azusagawa",
+        "img": "https://cdn.myanimelist.net/images/characters/15/361765.jpg",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    {
+        "name": "Mitsukuni Haninozuka",
+        "img": "https://cdn.myanimelist.net/images/characters/13/48471.jpg",
+        "title": "Ouran Koukou Host Club"
+    },
+    {
+        "name": "Watashi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/89099.jpg",
+        "title": "Yojouhan Shinwa Taikei"
+    },
+    {
+        "name": "Diego Brando",
+        "img": "https://cdn.myanimelist.net/images/characters/11/326273.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+    },
+    {
+        "name": "Togame",
+        "img": "https://cdn.myanimelist.net/images/characters/15/90626.jpg",
+        "title": "Katanagatari"
+    },
+    {
+        "name": "Lancer",
+        "img": "https://cdn.myanimelist.net/images/characters/11/280846.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Ai Haibara",
+        "img": "https://cdn.myanimelist.net/images/characters/14/146141.jpg",
+        "title": "Meitantei Conan"
+    },
+    {
+        "name": "Jousuke Higashikata",
+        "img": "https://cdn.myanimelist.net/images/characters/11/436398.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 8: JoJolion"
+    },
+    {
+        "name": "Kazuma Kuwabara",
+        "img": "https://cdn.myanimelist.net/images/characters/10/96678.jpg",
+        "title": "Yuu☆Yuu☆Hakusho"
+    },
+    {
+        "name": "Gabimaru",
+        "img": "https://cdn.myanimelist.net/images/characters/5/497163.jpg",
+        "title": "Jigokuraku"
+    },
+    {
+        "name": "Twenty-Fifth Bam",
+        "img": "https://cdn.myanimelist.net/images/characters/4/393957.jpg",
+        "title": "Kami no Tou"
+    },
+    {
+        "name": "Yuzuru Nishimiya",
+        "img": "https://cdn.myanimelist.net/images/characters/10/330472.jpg",
+        "title": "Koe no Katachi"
+    },
+    {
+        "name": "Reki",
+        "img": "https://cdn.myanimelist.net/images/characters/9/109099.jpg",
+        "title": "Haibane Renmei"
+    },
+    {
+        "name": "Bishamon",
+        "img": "https://cdn.myanimelist.net/images/characters/13/237153.jpg",
+        "title": "Noragami"
+    },
+    {
+        "name": "Oz Vessalius",
+        "img": "https://cdn.myanimelist.net/images/characters/10/323973.jpg",
+        "title": "Pandora Hearts"
+    },
+    {
+        "name": "Yuuki Konno",
+        "img": "https://cdn.myanimelist.net/images/characters/4/278171.jpg",
+        "title": "Sword Art Online II"
+    },
+    {
+        "name": "Felix Argyle",
+        "img": "https://cdn.myanimelist.net/images/characters/7/307709.jpg",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+    },
+    {
+        "name": "Kaname Chidori",
+        "img": "https://cdn.myanimelist.net/images/characters/10/59128.jpg",
+        "title": "Full Metal Panic!"
+    },
+    {
+        "name": "Okuyasu Nijimura",
+        "img": "https://cdn.myanimelist.net/images/characters/8/81102.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
+    },
+    {
+        "name": "Aka no Saber",
+        "img": "https://cdn.myanimelist.net/images/characters/9/333073.jpg",
+        "title": "Fate/stay night"
+    },
+    {
+        "name": "Viral",
+        "img": "https://cdn.myanimelist.net/images/characters/16/153853.jpg",
+        "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+        "name": "Eijun Sawamura",
+        "img": "https://cdn.myanimelist.net/images/characters/5/235393.jpg",
+        "title": "Diamond no Ace"
+    },
+    {
+        "name": "Diablo",
+        "img": "https://cdn.myanimelist.net/images/characters/12/476920.jpg",
+        "title": "Tensei shitara Slime Datta Ken"
+    },
+    {
+        "name": "Shizuka Hiratsuka",
+        "img": "https://cdn.myanimelist.net/images/characters/9/282861.jpg",
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    },
+    {
+        "name": "Pino",
+        "img": "https://cdn.myanimelist.net/images/characters/10/57256.jpg",
+        "title": "Ergo Proxy"
+    },
+    {
+        "name": "Shalltear Bloodfallen",
+        "img": "https://cdn.myanimelist.net/images/characters/2/512759.jpg",
+        "title": "Overlord"
+    },
+    {
+        "name": "Noé Archiviste",
+        "img": "https://cdn.myanimelist.net/images/characters/8/453110.jpg",
+        "title": "Vanitas no Karte"
+    },
+    {
+        "name": "Masaomi Kida",
+        "img": "https://cdn.myanimelist.net/images/characters/5/76245.jpg",
+        "title": "Durarara!!"
+    },
+    {
+        "name": "Ymir",
+        "img": "https://cdn.myanimelist.net/images/characters/9/206385.jpg",
+        "title": "Shingeki no Kyojin"
+    },
+    {
+        "name": "Koko Hekmatyar",
+        "img": "https://cdn.myanimelist.net/images/characters/5/164387.jpg",
+        "title": "Jormungand"
+    },
+    {
+        "name": "Aika Fuwa",
+        "img": "https://cdn.myanimelist.net/images/characters/13/281739.jpg",
+        "title": "Zetsuen no Tempest"
+    },
+    {
+        "name": "Lian Xie",
+        "img": "https://cdn.myanimelist.net/images/characters/11/473703.jpg",
+        "title": "Tian Guan Cifu"
+    },
+    {
+        "name": "Ryuunosuke Tanaka",
+        "img": "https://cdn.myanimelist.net/images/characters/14/417860.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Noi",
+        "img": "https://cdn.myanimelist.net/images/characters/7/504010.jpg",
+        "title": "Dorohedoro"
+    },
+    {
+        "name": "Kotomi Ichinose",
+        "img": "https://cdn.myanimelist.net/images/characters/15/33494.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "T.K.",
+        "img": "https://cdn.myanimelist.net/images/characters/10/91153.jpg",
+        "title": "Angel Beats!"
+    },
+    {
+        "name": "Narancia Ghirga",
+        "img": "https://cdn.myanimelist.net/images/characters/14/361190.jpg",
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+    },
+    {
+        "name": "Lubbock",
+        "img": "https://cdn.myanimelist.net/images/characters/10/238539.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Siesta",
+        "img": "https://cdn.myanimelist.net/images/characters/9/446678.jpg",
+        "title": "Tantei wa Mou, Shindeiru."
+    },
+    {
+        "name": "Haise Sasaki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/484466.jpg",
+        "title": "Tokyo Ghoul:re"
+    },
+    {
+        "name": "Kimihiro Watanuki",
+        "img": "https://cdn.myanimelist.net/images/characters/4/471600.jpg",
+        "title": "Tsubasa Chronicle"
+    },
+    {
+        "name": "Charlotte Dunois",
+        "img": "https://cdn.myanimelist.net/images/characters/8/216587.jpg",
+        "title": "IS: Infinite Stratos"
+    },
+    {
+        "name": "Shaoran Li",
+        "img": "https://cdn.myanimelist.net/images/characters/7/234415.jpg",
+        "title": "Cardcaptor Sakura"
+    },
+    {
+        "name": "Nanami Momozono",
+        "img": "https://cdn.myanimelist.net/images/characters/16/185573.jpg",
+        "title": "Kamisama Hajimemashita"
+    },
+    {
+        "name": "Ein",
+        "img": "https://cdn.myanimelist.net/images/characters/5/30624.jpg",
+        "title": "Cowboy Bebop"
+    },
+    {
+        "name": "Sayu Ogiwara",
+        "img": "https://cdn.myanimelist.net/images/characters/9/444114.jpg",
+        "title": "Hige wo Soru. Soshite Joshikousei wo Hirou."
+    },
+    {
+        "name": "Hiroto Suwa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/302620.jpg",
+        "title": "Orange"
+    },
+    {
+        "name": "Origami Tobiichi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/193285.jpg",
+        "title": "Date A Live"
+    },
+    {
+        "name": "Takehito Morokuzu",
+        "img": "https://cdn.myanimelist.net/images/characters/6/288430.jpg",
+        "title": "Prison School"
+    },
+    {
+        "name": "Balsa Yonsa",
+        "img": "https://cdn.myanimelist.net/images/characters/12/31004.jpg",
+        "title": "Seirei no Moribito"
+    },
+    {
+        "name": "Ruby Hoshino",
+        "img": "https://cdn.myanimelist.net/images/characters/5/496454.jpg",
+        "title": "\"Oshi no Ko\""
+    },
+    {
+        "name": "Alois Trancy",
+        "img": "https://cdn.myanimelist.net/images/characters/9/94244.jpg",
+        "title": "Kuroshitsuji II"
+    },
+    {
+        "name": "Kuroko Shirai",
+        "img": "https://cdn.myanimelist.net/images/characters/12/101104.jpg",
+        "title": "Toaru Majutsu no Index"
+    },
+    {
+        "name": "Fate Testarossa",
+        "img": "https://cdn.myanimelist.net/images/characters/4/226585.jpg",
+        "title": "Mahou Shoujo Lyrical Nanoha"
+    },
+    {
+        "name": "Fumikage Tokoyami",
+        "img": "https://cdn.myanimelist.net/images/characters/13/299402.jpg",
+        "title": "Boku no Hero Academia"
+    },
+    {
+        "name": "Ruiko Saten",
+        "img": "https://cdn.myanimelist.net/images/characters/13/405744.jpg",
+        "title": "Toaru Kagaku no Railgun"
+    },
+    {
+        "name": "Kenji Endo",
+        "img": "https://cdn.myanimelist.net/images/characters/3/239513.jpg",
+        "title": "20th Century Boys"
+    },
+    {
+        "name": "Gally",
+        "img": "https://cdn.myanimelist.net/images/characters/7/504014.jpg",
+        "title": "Gunnm"
+    },
+    {
+        "name": "Hiro",
+        "img": "https://cdn.myanimelist.net/images/characters/12/358246.jpg",
+        "title": "Darling in the FranXX"
+    },
+    {
+        "name": "Angel Devil",
+        "img": "https://cdn.myanimelist.net/images/characters/3/492720.jpg",
+        "title": "Chainsaw Man"
+    },
+    {
+        "name": "Rikka Takarada",
+        "img": "https://cdn.myanimelist.net/images/characters/9/504102.jpg",
+        "title": "SSSS.Gridman"
+    },
+    {
+        "name": "Arcueid Brunestud",
+        "img": "https://cdn.myanimelist.net/images/characters/16/503903.jpg",
+        "title": "Shingetsutan Tsukihime"
+    },
+    {
+        "name": "Calcifer",
+        "img": "https://cdn.myanimelist.net/images/characters/12/64076.jpg",
+        "title": "Howl no Ugoku Shiro"
+    },
+    {
+        "name": "Ryouma Echizen",
+        "img": "https://cdn.myanimelist.net/images/characters/14/423565.jpg",
+        "title": "Tennis no Oujisama"
+    },
+    {
+        "name": "Asuka Tanaka",
+        "img": "https://cdn.myanimelist.net/images/characters/10/319400.jpg",
+        "title": "Hibike! Euphonium"
+    },
+    {
+        "name": "Tsukiko Tsutsukakushi",
+        "img": "https://cdn.myanimelist.net/images/characters/11/217989.jpg",
+        "title": "Hentai Ouji to Warawanai Neko."
+    },
+    {
+        "name": "Mutta Nanba",
+        "img": "https://cdn.myanimelist.net/images/characters/6/242299.jpg",
+        "title": "Uchuu Kyoudai"
+    },
+    {
+        "name": "King",
+        "img": "https://cdn.myanimelist.net/images/characters/16/277006.jpg",
+        "title": "Nanatsu no Taizai"
+    },
+    {
+        "name": "Yutaka Hoshino",
+        "img": "https://cdn.myanimelist.net/images/characters/10/266673.jpg",
+        "title": "Ping Pong the Animation"
+    },
+    {
+        "name": "Chino Kafuu",
+        "img": "https://cdn.myanimelist.net/images/characters/16/244251.jpg",
+        "title": "Gochuumon wa Usagi desu ka?"
+    },
+    {
+        "name": "Laxus Dreyar",
+        "img": "https://cdn.myanimelist.net/images/characters/15/294797.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Wangji Lan",
+        "img": "https://cdn.myanimelist.net/images/characters/12/364286.jpg",
+        "title": "Mo Dao Zu Shi"
+    },
+    {
+        "name": "Hitohito Tadano",
+        "img": "https://cdn.myanimelist.net/images/characters/5/451438.jpg",
+        "title": "Komi-san wa, Comyushou desu."
+    },
+    {
+        "name": "Kazuma Yagami",
+        "img": "https://cdn.myanimelist.net/images/characters/2/86238.jpg",
+        "title": "Kaze no Stigma"
+    },
+    {
+        "name": "Takemichi Hanagaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/397761.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Satou",
+        "img": "https://cdn.myanimelist.net/images/characters/12/284454.jpg",
+        "title": "Ajin Part 1: Shoudou"
+    },
+    {
+        "name": "Akari Watanabe",
+        "img": "https://cdn.myanimelist.net/images/characters/16/499736.jpg",
+        "title": "Fuufu Ijou, Koibito Miman."
+    },
+    {
+        "name": "Nonon Jakuzure",
+        "img": "https://cdn.myanimelist.net/images/characters/16/285556.jpg",
+        "title": "Kill la Kill"
+    },
+    {
+        "name": "Battler Ushiromiya",
+        "img": "https://cdn.myanimelist.net/images/characters/4/83717.jpg",
+        "title": "Umineko no Naku Koro ni"
+    },
+    {
+        "name": "Mion Sonozaki",
+        "img": "https://cdn.myanimelist.net/images/characters/10/442810.jpg",
+        "title": "Higurashi no Naku Koro ni"
+    },
+    {
+        "name": "Inaho Kaizuka",
+        "img": "https://cdn.myanimelist.net/images/characters/10/259923.jpg",
+        "title": "Aldnoah.Zero"
+    },
+    {
+        "name": "Yuno",
+        "img": "https://cdn.myanimelist.net/images/characters/13/338842.jpg",
+        "title": "Black Clover: Jump Festa 2016 Special"
+    },
+    {
+        "name": "Sousuke Mitsuba",
+        "img": "https://cdn.myanimelist.net/images/characters/4/492838.jpg",
+        "title": "Jibaku Shounen Hanako-kun"
+    },
+    {
+        "name": "Krul Tepes",
+        "img": "https://cdn.myanimelist.net/images/characters/10/299682.jpg",
+        "title": "Owari no Seraph"
+    },
+    {
+        "name": "Yue",
+        "img": "https://cdn.myanimelist.net/images/characters/3/283004.jpg",
+        "title": "Arifureta Shokugyou de Sekai Saikyou"
+    },
+    {
+        "name": "Kotetsu T. Kaburagi",
+        "img": "https://cdn.myanimelist.net/images/characters/10/113442.jpg",
+        "title": "Tiger & Bunny"
+    },
+    {
+        "name": "Ren Amamiya",
+        "img": "https://cdn.myanimelist.net/images/characters/11/309269.jpg",
+        "title": "Persona 5 the Animation: The Day Breakers"
+    },
+    {
+        "name": "Guy Might",
+        "img": "https://cdn.myanimelist.net/images/characters/16/103576.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Mephisto Pheles",
+        "img": "https://cdn.myanimelist.net/images/characters/3/132999.jpg",
+        "title": "Ao no Exorcist"
+    },
+    {
+        "name": "Momiji Souma",
+        "img": "https://cdn.myanimelist.net/images/characters/3/449501.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Shintarou Midorima",
+        "img": "https://cdn.myanimelist.net/images/characters/7/165835.jpg",
+        "title": "Kuroko no Basket"
+    },
+    {
+        "name": "Umi Sonoda",
+        "img": "https://cdn.myanimelist.net/images/characters/5/196143.jpg",
+        "title": "Bokura no Live Kimi to no Life"
+    },
+    {
+        "name": "King Bradley",
+        "img": "https://cdn.myanimelist.net/images/characters/11/62053.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Gorou Honda",
+        "img": "https://cdn.myanimelist.net/images/characters/7/82370.jpg",
+        "title": "Major S2"
+    },
+    {
+        "name": "Akaza",
+        "img": "https://cdn.myanimelist.net/images/characters/2/464775.jpg",
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
+    },
+    {
+        "name": "Jet Black",
+        "img": "https://cdn.myanimelist.net/images/characters/11/253723.jpg",
+        "title": "Cowboy Bebop"
+    },
+    {
+        "name": "Ruler",
+        "img": "https://cdn.myanimelist.net/images/characters/4/317698.jpg",
+        "title": "Fate/Apocrypha"
+    },
+    {
+        "name": "Nagisa Hazuki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/212021.jpg",
+        "title": "Free!"
+    },
+    {
+        "name": "Dokja Kim",
+        "img": "https://cdn.myanimelist.net/images/characters/7/489730.jpg",
+        "title": "Omniscient Reader"
+    },
+    {
+        "name": "Nene Yashiro",
+        "img": "https://cdn.myanimelist.net/images/characters/4/445275.jpg",
+        "title": "Jibaku Shounen Hanako-kun"
+    },
+    {
+        "name": "Kotori Itsuka",
+        "img": "https://cdn.myanimelist.net/images/characters/16/211505.jpg",
+        "title": "Date A Live"
+    },
+    {
+        "name": "Pen Pen",
+        "img": "https://cdn.myanimelist.net/images/characters/7/346982.jpg",
+        "title": "Shinseiki Evangelion"
+    },
+    {
+        "name": "Seishirou Tsugumi",
+        "img": "https://cdn.myanimelist.net/images/characters/8/241659.jpg",
+        "title": "Nisekoi"
+    },
+    {
+        "name": "Naota Nandaba",
+        "img": "https://cdn.myanimelist.net/images/characters/12/117021.jpg",
+        "title": "FLCL"
+    },
+    {
+        "name": "Sakunosuke Oda",
+        "img": "https://cdn.myanimelist.net/images/characters/16/313386.jpg",
+        "title": "Bungou Stray Dogs 2nd Season"
+    },
+    {
+        "name": "Tobi",
+        "img": "https://cdn.myanimelist.net/images/characters/14/73577.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Rei Hino",
+        "img": "https://cdn.myanimelist.net/images/characters/2/324042.jpg",
+        "title": "Bishoujo Senshi Sailor Moon"
+    },
+    {
+        "name": "Reg",
+        "img": "https://cdn.myanimelist.net/images/characters/4/326001.jpg",
+        "title": "Made in Abyss"
+    },
+    {
+        "name": "Yui",
+        "img": "https://cdn.myanimelist.net/images/characters/15/264165.jpg",
+        "title": "Sword Art Online"
+    },
+    {
+        "name": "Hakase Shinonome",
+        "img": "https://cdn.myanimelist.net/images/characters/5/113407.jpg",
+        "title": "Nichijou: Nichijou no 0-wa"
+    },
+    {
+        "name": "Tasuku Kurosaki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/239495.jpg",
+        "title": "Dengeki Daisy"
+    },
+    {
+        "name": "Buntarou Mori",
+        "img": "https://cdn.myanimelist.net/images/characters/12/504009.jpg",
+        "title": "Kokou no Hito"
+    },
+    {
+        "name": "Kite",
+        "img": "https://cdn.myanimelist.net/images/characters/5/203429.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Midari Ikishima",
+        "img": "https://cdn.myanimelist.net/images/characters/4/322953.jpg",
+        "title": "Kakegurui"
+    },
+    {
+        "name": "Saito Hiraga",
+        "img": "https://cdn.myanimelist.net/images/characters/13/50370.jpg",
+        "title": "Zero no Tsukaima"
+    },
+    {
+        "name": "Kakeru Kurosawa",
+        "img": "https://cdn.myanimelist.net/images/characters/13/111617.jpg",
+        "title": "Onanie Master Kurosawa"
+    },
+    {
+        "name": "Sachi Nanjou",
+        "img": "https://cdn.myanimelist.net/images/characters/15/288305.jpg",
+        "title": "Oyasumi Punpun"
+    },
+    {
+        "name": "Yamato",
+        "img": "https://cdn.myanimelist.net/images/characters/9/486931.jpg",
+        "title": "One Piece"
+    },
+    {
+        "name": "Takashi Mitsuya",
+        "img": "https://cdn.myanimelist.net/images/characters/4/388013.jpg",
+        "title": "Tokyo Revengers"
+    },
+    {
+        "name": "Setsuna F. Seiei",
+        "img": "https://cdn.myanimelist.net/images/characters/9/76517.jpg",
+        "title": "Kidou Senshi Gundam 00"
+    },
+    {
+        "name": "Setsuna F. Seiei",
+        "img": "https://cdn.myanimelist.net/images/characters/9/76517.jpg",
+        "title": "Kidou Senshi Gundam 00"
+    },
+    {
+        "name": "Togata",
+        "img": "https://cdn.myanimelist.net/images/characters/10/444306.jpg",
+        "title": "Fire Punch"
+    },
+    {
+        "name": "Tamaki Kotatsu",
+        "img": "https://cdn.myanimelist.net/images/characters/10/496649.jpg",
+        "title": "Enen no Shouboutai"
+    },
+    {
+        "name": "Sasori",
+        "img": "https://cdn.myanimelist.net/images/characters/6/128070.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Mo-Ri Jin",
+        "img": "https://cdn.myanimelist.net/images/characters/10/354507.jpg",
+        "title": "The God of High School"
+    },
+    {
+        "name": "Arthur Boyle",
+        "img": "https://cdn.myanimelist.net/images/characters/2/384687.jpg",
+        "title": "Enen no Shouboutai"
+    },
+    {
+        "name": "Yoshiko Tsushima",
+        "img": "https://cdn.myanimelist.net/images/characters/9/318793.jpg",
+        "title": "Kimi no Kokoro wa Kagayaiteru kai?"
+    },
+    {
+        "name": "Tsunade",
+        "img": "https://cdn.myanimelist.net/images/characters/12/523646.jpg",
+        "title": "Naruto"
+    },
+    {
+        "name": "Sistine Fibel",
+        "img": "https://cdn.myanimelist.net/images/characters/6/318845.jpg",
+        "title": "Rokudenashi Majutsu Koushi to Akashic Records"
+    },
+    {
+        "name": "Koutarou Tatsumi",
+        "img": "https://cdn.myanimelist.net/images/characters/9/364578.jpg",
+        "title": "Zombieland Saga"
+    },
+    {
+        "name": "Friend",
+        "img": "https://cdn.myanimelist.net/images/characters/16/274844.jpg",
+        "title": "20th Century Boys"
+    },
+    {
+        "name": "Suigintou",
+        "img": "https://cdn.myanimelist.net/images/characters/16/220173.jpg",
+        "title": "Rozen Maiden"
+    },
+    {
+        "name": "Yasushi Takagi",
+        "img": "https://cdn.myanimelist.net/images/characters/3/341596.jpg",
+        "title": "Nana"
+    },
+    {
+        "name": "Train Heartnet",
+        "img": "https://cdn.myanimelist.net/images/characters/15/78799.jpg",
+        "title": "Black Cat (TV)"
+    },
+    {
+        "name": "Yakumo Yuurakutei",
+        "img": "https://cdn.myanimelist.net/images/characters/6/348746.jpg",
+        "title": "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
+    },
+    {
+        "name": "Hitomi Mishima",
+        "img": "https://cdn.myanimelist.net/images/characters/13/346464.jpg",
+        "title": "Hinamatsuri (TV)"
+    },
+    {
+        "name": "Sunako Nakahara",
+        "img": "https://cdn.myanimelist.net/images/characters/16/46565.jpg",
+        "title": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+        "name": "Nyaruko",
+        "img": "https://cdn.myanimelist.net/images/characters/2/217623.jpg",
+        "title": "Haiyoru! Nyaruani"
+    },
+    {
+        "name": "Ryuu Lion",
+        "img": "https://cdn.myanimelist.net/images/characters/11/508899.jpg",
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    {
+        "name": "Zeref",
+        "img": "https://cdn.myanimelist.net/images/characters/6/327914.jpg",
+        "title": "Fairy Tail"
+    },
+    {
+        "name": "Maria Kurose",
+        "img": "https://cdn.myanimelist.net/images/characters/9/516639.jpg",
+        "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi."
+    },
+    {
+        "name": "Takeo Gouda",
+        "img": "https://cdn.myanimelist.net/images/characters/3/279776.jpg",
+        "title": "Ore Monogatari!!"
+    },
+    {
+        "name": "YoRHa 2-gou B-gata",
+        "img": "https://cdn.myanimelist.net/images/characters/6/489088.jpg",
+        "title": "NieR:Automata Ver1.1a"
+    },
+    {
+        "name": "Miia",
+        "img": "https://cdn.myanimelist.net/images/characters/3/287359.jpg",
+        "title": "Monster Musume no Iru Nichijou"
+    },
+    {
+        "name": "Scar",
+        "img": "https://cdn.myanimelist.net/images/characters/3/31591.jpg",
+        "title": "Fullmetal Alchemist"
+    },
+    {
+        "name": "Leone",
+        "img": "https://cdn.myanimelist.net/images/characters/13/239435.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Xiu Ye",
+        "img": "https://cdn.myanimelist.net/images/characters/6/425074.jpg",
+        "title": "Quanzhi Gaoshou"
+    },
+    {
+        "name": "Satoshi",
+        "img": "https://cdn.myanimelist.net/images/characters/10/100701.jpg",
+        "title": "Pokemon"
+    },
+    {
+        "name": "Aira Shiratori",
+        "img": "https://cdn.myanimelist.net/images/characters/15/470753.jpg",
+        "title": "Dandadan"
+    },
+    {
+        "name": "Reborn",
+        "img": "https://cdn.myanimelist.net/images/characters/12/64542.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Soushi Miketsukami",
+        "img": "https://cdn.myanimelist.net/images/characters/12/164675.jpg",
+        "title": "Inu x Boku SS"
+    },
+    {
+        "name": "Nikaidou",
+        "img": "https://cdn.myanimelist.net/images/characters/14/196689.jpg",
+        "title": "Dorohedoro"
+    },
+    {
+        "name": "Ikuyo Kita",
+        "img": "https://cdn.myanimelist.net/images/characters/10/509914.jpg",
+        "title": "Bocchi the Rock!"
+    },
+    {
+        "name": "Riki Nendou",
+        "img": "https://cdn.myanimelist.net/images/characters/15/349586.jpg",
+        "title": "Saiki Kusuo no Ψ-nan (ONA)"
+    },
+    {
+        "name": "Arata Kaizaki",
+        "img": "https://cdn.myanimelist.net/images/characters/16/299672.jpg",
+        "title": "ReLIFE"
+    },
+    {
+        "name": "Yoshino",
+        "img": "https://cdn.myanimelist.net/images/characters/4/215469.jpg",
+        "title": "Date A Live"
+    },
+    {
+        "name": "Cadis Etrama Di Raizel",
+        "img": "https://cdn.myanimelist.net/images/characters/12/249417.jpg",
+        "title": "Noblesse: Pamyeol-ui Sijak"
+    },
+    {
+        "name": "Takeshi Yamamoto",
+        "img": "https://cdn.myanimelist.net/images/characters/9/161411.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Najimi Osana",
+        "img": "https://cdn.myanimelist.net/images/characters/4/450832.jpg",
+        "title": "Komi-san wa, Comyushou desu."
+    },
+    {
+        "name": "Ashitaka",
+        "img": "https://cdn.myanimelist.net/images/characters/12/484528.jpg",
+        "title": "Mononoke Hime"
+    },
+    {
+        "name": "Monokuma",
+        "img": "https://cdn.myanimelist.net/images/characters/12/321856.jpg",
+        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+    },
+    {
+        "name": "Integra Fairbrook Wingates Hellsing",
+        "img": "https://cdn.myanimelist.net/images/characters/9/98495.jpg",
+        "title": "Hellsing"
+    },
+    {
+        "name": "Lum",
+        "img": "https://cdn.myanimelist.net/images/characters/11/498938.jpg",
+        "title": "Urusei Yatsura"
+    },
+    {
+        "name": "Haiji Kiyose",
+        "img": "https://cdn.myanimelist.net/images/characters/16/398898.jpg",
+        "title": "Kaze ga Tsuyoku Fuiteiru"
+    },
+    {
+        "name": "Haji",
+        "img": "https://cdn.myanimelist.net/images/characters/5/92561.jpg",
+        "title": "Blood+"
+    },
+    {
+        "name": "Chihiro Ogino",
+        "img": "https://cdn.myanimelist.net/images/characters/7/434512.jpg",
+        "title": "Sen to Chihiro no Kamikakushi"
+    },
+    {
+        "name": "Fyodor Dostoyevsky",
+        "img": "https://cdn.myanimelist.net/images/characters/9/380465.jpg",
+        "title": "Bungou Stray Dogs 2nd Season"
+    },
+    {
+        "name": "Akari Akaza",
+        "img": "https://cdn.myanimelist.net/images/characters/9/319182.jpg",
+        "title": "Yuru Yuri"
+    },
+    {
+        "name": "Youhei Sunohara",
+        "img": "https://cdn.myanimelist.net/images/characters/15/34967.jpg",
+        "title": "Clannad Movie"
+    },
+    {
+        "name": "Atsushi Ootani",
+        "img": "https://cdn.myanimelist.net/images/characters/12/86403.jpg",
+        "title": "Lovely★Complex"
+    },
+    {
+        "name": "The Skull Knight",
+        "img": "https://cdn.myanimelist.net/images/characters/8/535379.jpg",
+        "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku"
+    },
+    {
+        "name": "Chelsea",
+        "img": "https://cdn.myanimelist.net/images/characters/11/260053.jpg",
+        "title": "Akame ga Kill!"
+    },
+    {
+        "name": "Miko Yotsuya",
+        "img": "https://cdn.myanimelist.net/images/characters/4/456320.jpg",
+        "title": "Mieruko-chan"
+    },
+    {
+        "name": "Mukuro Rokudou",
+        "img": "https://cdn.myanimelist.net/images/characters/16/47183.jpg",
+        "title": "Katekyou Hitman Reborn!"
+    },
+    {
+        "name": "Tadashi Yamaguchi",
+        "img": "https://cdn.myanimelist.net/images/characters/15/417857.jpg",
+        "title": "Haikyuu!!"
+    },
+    {
+        "name": "Sniper Kamen",
+        "img": "https://cdn.myanimelist.net/images/characters/7/442626.jpg",
+        "title": "Tenkuu Shinpan"
+    },
+    {
+        "name": "Luck Voltia",
+        "img": "https://cdn.myanimelist.net/images/characters/10/338847.jpg",
+        "title": "Black Clover"
+    },
+    {
+        "name": "Illumi Zoldyck",
+        "img": "https://cdn.myanimelist.net/images/characters/8/174521.jpg",
+        "title": "Hunter x Hunter"
+    },
+    {
+        "name": "Eureka",
+        "img": "https://cdn.myanimelist.net/images/characters/13/109619.jpg",
+        "title": "Koukyoushihen Eureka Seven"
+    },
+    {
+        "name": "Tyki Mikk",
+        "img": "https://cdn.myanimelist.net/images/characters/13/73273.jpg",
+        "title": "D.Gray-man"
+    },
+    {
+        "name": "Boruto Uzumaki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/292447.jpg",
+        "title": "The Last: Naruto the Movie"
+    },
+    {
+        "name": "Satori Tendou",
+        "img": "https://cdn.myanimelist.net/images/characters/3/417888.jpg",
+        "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou"
+    },
+    {
+        "name": "Saber",
+        "img": "https://cdn.myanimelist.net/images/characters/2/349681.jpg",
+        "title": "Carnival Phantasm"
+    },
+    {
+        "name": "Jusetsu Ryuu",
+        "img": "https://cdn.myanimelist.net/images/characters/2/480376.jpg",
+        "title": "Koukyuu no Karasu"
+    },
+    {
+        "name": "Sayaka Kanamori",
+        "img": "https://cdn.myanimelist.net/images/characters/7/520260.jpg",
+        "title": "Eizouken ni wa Te wo Dasu na!"
+    },
+    {
+        "name": "Yui Kotegawa",
+        "img": "https://cdn.myanimelist.net/images/characters/10/150171.jpg",
+        "title": "To LOVE-Ru"
+    },
+    {
+        "name": "Urumi Kanzaki",
+        "img": "https://cdn.myanimelist.net/images/characters/15/113918.jpg",
+        "title": "Great Teacher Onizuka"
+    },
+    {
+        "name": "Xiaoshi Cheng",
+        "img": "https://cdn.myanimelist.net/images/characters/2/491898.jpg",
+        "title": "Shiguang Dailiren"
+    },
+    {
+        "name": "Bunta Fujiwara",
+        "img": "https://cdn.myanimelist.net/images/characters/16/496975.jpg",
+        "title": "Initial D Fourth Stage"
+    },
+    {
+        "name": "Kaonashi",
+        "img": "https://cdn.myanimelist.net/images/characters/16/64987.jpg",
+        "title": "Sen to Chihiro no Kamikakushi"
+    },
+    {
+        "name": "Qi Wang",
+        "img": "https://cdn.myanimelist.net/images/characters/3/240321.jpg",
+        "title": "Kingdom"
+    },
+    {
+        "name": "Hanako Honda",
+        "img": "https://cdn.myanimelist.net/images/characters/5/353612.jpg",
+        "title": "Asobi Asobase"
+    },
+    {
+        "name": "Catarina Claes",
+        "img": "https://cdn.myanimelist.net/images/characters/15/405615.jpg",
+        "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta..."
+    },
+    {
+        "name": "Fremy Speeddraw",
+        "img": "https://cdn.myanimelist.net/images/characters/9/214653.jpg",
+        "title": "Rokka no Yuusha"
+    },
+    {
+        "name": "Iruma Suzuki",
+        "img": "https://cdn.myanimelist.net/images/characters/8/393167.jpg",
+        "title": "Mairimashita! Iruma-kun"
+    },
+    {
+        "name": "Shigure Souma",
+        "img": "https://cdn.myanimelist.net/images/characters/12/388998.jpg",
+        "title": "Fruits Basket"
+    },
+    {
+        "name": "Makoto Yuuki",
+        "img": "https://cdn.myanimelist.net/images/characters/2/70476.jpg",
+        "title": "Persona 3 the Movie 1: Spring of Birth"
+    },
+    {
+        "name": "Naoka Ueno",
+        "img": "https://cdn.myanimelist.net/images/characters/2/316403.jpg",
+        "title": "Koe no Katachi"
+    },
+    {
+        "name": "Shin",
+        "img": "https://cdn.myanimelist.net/images/characters/8/352877.jpg",
+        "title": "Dorohedoro"
+    },
+    {
+        "name": "Satou Matsuzaka",
+        "img": "https://cdn.myanimelist.net/images/characters/12/359861.jpg",
+        "title": "Happy Sugar Life"
+    },
+    {
+        "name": "Atsumu Miya",
+        "img": "https://cdn.myanimelist.net/images/characters/14/417868.jpg",
+        "title": "Haikyuu!! To the Top"
+    },
+    {
+        "name": "Shuuichi Akai",
+        "img": "https://cdn.myanimelist.net/images/characters/3/208069.jpg",
+        "title": "Meitantei Conan"
+    },
+    {
+        "name": "Kamui",
+        "img": "https://cdn.myanimelist.net/images/characters/2/261111.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Arata Kasuga",
+        "img": "https://cdn.myanimelist.net/images/characters/13/317850.jpg",
+        "title": "Trinity Seven"
+    },
+    {
+        "name": "Kira Yamato",
+        "img": "https://cdn.myanimelist.net/images/characters/10/72646.jpg",
+        "title": "Kidou Senshi Gundam SEED"
+    },
+    {
+        "name": "Shinpachi Shimura",
+        "img": "https://cdn.myanimelist.net/images/characters/14/114081.jpg",
+        "title": "Gintama"
+    },
+    {
+        "name": "Laurent Thierry",
+        "img": "https://cdn.myanimelist.net/images/characters/12/412378.jpg",
+        "title": "Great Pretender"
+    },
+    {
+        "name": "Nayuta Kani",
+        "img": "https://cdn.myanimelist.net/images/characters/12/338865.jpg",
+        "title": "Imouto sae Ireba Ii."
+    },
+    {
+        "name": "Jeanne",
+        "img": "https://cdn.myanimelist.net/images/characters/15/444730.jpg",
+        "title": "Vanitas no Karte"
+    },
+    {
+        "name": "Caesar Anthonio Zeppeli",
+        "img": "https://cdn.myanimelist.net/images/characters/6/251679.jpg",
+        "title": "JoJo no Kimyou na Bouken (TV)"
+    },
+    {
+        "name": "Kuranosuke Koibuchi",
+        "img": "https://cdn.myanimelist.net/images/characters/6/103186.jpg",
+        "title": "Kuragehime"
+    },
+    {
+        "name": "Amelie Azazel",
+        "img": "https://cdn.myanimelist.net/images/characters/10/390546.jpg",
+        "title": "Mairimashita! Iruma-kun"
+    },
+    {
+        "name": "Ayase Aragaki",
+        "img": "https://cdn.myanimelist.net/images/characters/10/117839.jpg",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+    },
+    {
+        "name": "Mafuyu Kirisu",
+        "img": "https://cdn.myanimelist.net/images/characters/13/492159.jpg",
+        "title": "Bokutachi wa Benkyou ga Dekinai"
+    },
+    {
+        "name": "Shisui Uchiha",
+        "img": "https://cdn.myanimelist.net/images/characters/16/292332.jpg",
+        "title": "Naruto: Shippuuden"
+    },
+    {
+        "name": "Ayame Kajou",
+        "img": "https://cdn.myanimelist.net/images/characters/5/290512.jpg",
+        "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai"
+    },
+    {
+        "name": "Pikachu",
+        "img": "https://cdn.myanimelist.net/images/characters/10/289627.jpg",
+        "title": "Pokemon"
+    },
+    {
+        "name": "Tsumiki Miniwa",
+        "img": "https://cdn.myanimelist.net/images/characters/5/161551.jpg",
+        "title": "Acchi Kocchi"
+    },
+    {
+        "name": "Kiyomasa Senji",
+        "img": "https://cdn.myanimelist.net/images/characters/12/120298.jpg",
+        "title": "Deadman Wonderland"
+    },
+    {
+        "name": "Michiko Malandro",
+        "img": "https://cdn.myanimelist.net/images/characters/13/41341.jpg",
+        "title": "Michiko to Hatchin"
+    }
+]
