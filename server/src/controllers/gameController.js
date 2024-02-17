@@ -3,14 +3,30 @@ import { Character } from "../models/models.js";
 
 class DeviceController {
 
-    async getCharacters() {
+    async getCharacters(req, res) {
         try {
             
+            const {usedCharacters} = req.body;
+            let newCharacters;
 
+            if(usedCharacters) {
+                newCharacters = await Character.aggregate([
+                    { $match: { _id: { $nin: usedCharacters } } },
+                    { $sample: { size: 20 } }
+                ]);
+            }
+            else {
+                newCharacters = await Character.aggregate([
+                    { $sample: { size: 20 } }
+                ]);
+            }
+
+
+            res.json(newCharacters);
 
         } 
         catch (error) {
-            return error.message;
+            res.status(500).json({ error: error.message });
         }
     }
 
@@ -34,7 +50,7 @@ class DeviceController {
         } 
         catch (error) {
             console.log(error);
-            res.json(error.message);
+            res.status(500).json({ error: error.message });
         }
     }
 
@@ -51,18 +67,18 @@ class DeviceController {
         } 
         catch (error) {
             console.log(error);
-            res.json(error.message);
+            res.status(500).json({ error: error.message });
         }
     }
 
-    async postVote() {
+    async postVote(req, res) {
         try {
             
 
 
         } 
         catch (error) {
-            return error.message;
+            res.status(500).json({ error: error.message });
         }
     }
 

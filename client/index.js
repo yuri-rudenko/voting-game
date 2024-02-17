@@ -50,18 +50,40 @@ function addFirstCharacters(characters) {
     return characters;
 }
 
-characters.push(
-    {name: "Power", title: 'Chainsaw Man', img: 'https://cdn.myanimelist.net/images/characters/7/494969.jpg'},
-    {name: "Uzumaki, Naruto", title: 'Naruto', img: 'https://cdn.myanimelist.net/images/characters/2/284121.jpg'},
-    {name: "Eren Yeager", title: 'Shingeki no Kyojin', img: 'https://cdn.myanimelist.net/images/characters/10/216895.jpg'},
-    {name: "Megumin", title: 'Kono Subarashii Sekai ni Shukufuku wo!', img: 'https://cdn.myanimelist.net/images/characters/14/349249.jpg'},
-    {name: "Hitagi Senjougahara", title: 'Bakemonogatari', img: 'https://cdn.myanimelist.net/images/characters/11/287902.jpg'},
-    {name: "Fate/stay night", title: 'Saber', img: 'https://cdn.myanimelist.net/images/characters/6/275276.jpg'},
-)
+// characters.push(
+//     {name: "Power", title: 'Chainsaw Man', img: 'https://cdn.myanimelist.net/images/characters/7/494969.jpg'},
+//     {name: "Uzumaki, Naruto", title: 'Naruto', img: 'https://cdn.myanimelist.net/images/characters/2/284121.jpg'},
+//     {name: "Eren Yeager", title: 'Shingeki no Kyojin', img: 'https://cdn.myanimelist.net/images/characters/10/216895.jpg'},
+//     {name: "Megumin", title: 'Kono Subarashii Sekai ni Shukufuku wo!', img: 'https://cdn.myanimelist.net/images/characters/14/349249.jpg'},
+//     {name: "Hitagi Senjougahara", title: 'Bakemonogatari', img: 'https://cdn.myanimelist.net/images/characters/11/287902.jpg'},
+//     {name: "Fate/stay night", title: 'Saber', img: 'https://cdn.myanimelist.net/images/characters/6/275276.jpg'},
+// )
 
+const getCharacters = async () => {
+    try {
+        const response = await fetch('http://localhost:5000/api/characters');
+        if (!response.ok) {
+            throw new Error('Failed to fetch characters');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error(error);
+    }
+}
 
-bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim'));
-topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim'));
+async function loadCharacters() {
+    try {
+        characters = await getCharacters();
+        console.log(characters);
 
-characters = addFirstCharacters(characters);
-console.log(characters)
+        bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim'));
+        topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim'));
+
+        addFirstCharacters(characters);
+    } catch (error) {
+        console.error(error);
+    }
+}
+
+loadCharacters()

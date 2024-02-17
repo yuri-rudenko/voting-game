@@ -61,6 +61,7 @@ body, html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .character-container .top .name {
     font-size: 30px;
