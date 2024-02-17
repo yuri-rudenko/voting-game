@@ -3,7 +3,9 @@ import gameController from "../controllers/gameController.js";
 
 const router = new Router();
 
-router.get('/', gameController.getCharacters);
-router.post('/', gameController.postVote);
+router.get('/characters', gameController.getCharacters);
+router.post('/character', gameController.postCharacter);
+// router.post('/characters', gameController.postCharacters);
+router.post('/vote', gameController.postVote);
 
 export default router;

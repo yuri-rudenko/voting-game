@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import router from './src/routes/index.js';
+import addDefaultCharacters from './src/functions/addDefaultCharacters.js';
 
 dotenv.config();
 
@@ -24,7 +25,7 @@ const start = async () => {
     catch (error) {
 
         console.log(error);
-        
+
     }
 };
 
