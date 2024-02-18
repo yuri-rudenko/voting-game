@@ -1,6 +1,6 @@
-const addVote = async (characterId) => {
+const addVote = async (characterId, count) => {
+    if(count.count === 0 || characterId !== count.character) return;
     try {
-        console.log(characterId)
         const response = await fetch('http://localhost:5000/api/vote', {
             method: 'POST', 
             headers: {

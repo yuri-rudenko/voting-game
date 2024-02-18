@@ -16,21 +16,24 @@ let count = {
     count: 0
 }
 
-let canVote = false;
+let canVote = true;
 
 function playAnimation(element, animation) {
+
     if(loading) return
     
     element.classList.add(`${animation}`);
     element.addEventListener('animationend', onAnimationEnd);
+    element.addEventListener('animationstart', () => loading = true);
 
     if(element.classList.contains('top')) {
 
         const id = bottomActiveEl.querySelector('.id').classList[1];
 
         if(count.character === id) {
-            if(count.count >= 4) {
+            if(count.count >= 9) {
                 count.count = 0;
+                canVote = false;
                 playAnimation(bottomEl, 'bottom-anim');
                 bottomActiveEl.querySelector('img').classList.add('winner');
             }
@@ -48,8 +51,9 @@ function playAnimation(element, animation) {
         const id = topActiveEl.querySelector('.id').classList[1];
 
         if(count.character === id) {
-            if(count.count >= 4) {
+            if(count.count >= 9) {
                 count.count = 0;
+                canVote = false;
                 playAnimation(topEl, 'top-anim');
                 topActiveEl.querySelector('img').classList.add('winner');
             }
@@ -62,7 +66,6 @@ function playAnimation(element, animation) {
             count.character = id;
         }
     }
-
 }
 
 async function onAnimationEnd(event) {
@@ -74,17 +77,13 @@ async function onAnimationEnd(event) {
             topActiveEl.innerHTML = el.innerHTML;
             const id = bottomActiveEl.querySelector('.id').classList[1];
 
-            loading = true
-
-            await addVote(id)
+            if(canVote) await addVote(id, count);
         }
         else {
             bottomActiveEl.innerHTML = el.innerHTML;
             const id = topActiveEl.querySelector('.id').classList[1];
 
-            loading = true
-
-            await addVote(id)
+            if(canVote) await addVote(id, count);
         }
 
         loading = false;
@@ -93,6 +92,7 @@ async function onAnimationEnd(event) {
             const newCharacters = await getCharacters(usedCharacters)
             characters.push(...newCharacters)
         }
+        canVote = true;
     }
 }
 
