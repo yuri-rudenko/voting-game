@@ -1,4 +1,5 @@
 import addCharacter from "./functions/addCharacter.js";
+import addVote from "./functions/addVote.js";
 import getCharacters from "./functions/getCharacters.js";
 import setDiv from "./functions/setDiv.js";
 
@@ -11,7 +12,7 @@ let characters = []
 let usedCharacters = []
 
 function playAnimation(element, animation) {
-    element.classList.add(`${animation}`) ;
+    element.classList.add(`${animation}`);
     element.addEventListener('animationend', onAnimationEnd);
 }
 
@@ -20,10 +21,13 @@ async function onAnimationEnd(event) {
         const el = event.target;
         el.classList.remove(`${event.animationName}`);
         if(el.classList.contains('top')) {
+            /// bottom wins
             topActiveEl.innerHTML = el.innerHTML;
+            await addVote(bottomActiveEl.querySelector('.id').classList[1])
         }
         else {
             bottomActiveEl.innerHTML = el.innerHTML;
+            await addVote(topActiveEl.querySelector('.id').classList[1])
         }
         console.log(characters)
         characters = addCharacter(el, characters);

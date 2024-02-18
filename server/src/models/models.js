@@ -10,7 +10,7 @@ const characterSchema = new mongoose.Schema({
 });
 
 const voteSchema = new mongoose.Schema({
-    character: {type: mongoose.Schema.Types.ObjectId, ref: 'Character'},
+    character: {type: mongoose.Schema.Types.ObjectId, ref: 'Character', required: true},
 }, { timestamps: true })
 
 const Character = mongoose.model('Character', characterSchema);

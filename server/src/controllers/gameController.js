@@ -1,5 +1,5 @@
 import addDefaultCharacters from "../functions/addDefaultCharacters.js";
-import { Character } from "../models/models.js";
+import { Character, Vote } from "../models/models.js";
 
 class DeviceController {
 
@@ -76,8 +76,17 @@ class DeviceController {
     async postVote(req, res) {
         try {
             
+            const {characterId} = req.body;
 
+            const vote = await Vote.create({character: characterId});
 
+            const character = await Character.findByIdAndUpdate(
+                characterId,
+                { $inc: { votesNumber: 1 }, $push: { votes: vote._id } },
+                { new: true }
+            );
+
+            res.json(vote)
         } 
         catch (error) {
             res.status(500).json({ error: error.message });
