@@ -92,7 +92,6 @@ async function onAnimationEnd(event) {
             const newCharacters = await getCharacters(usedCharacters)
             characters.push(...newCharacters)
             usedCharacters.push(...newCharacters)
-            console.log(usedCharacters)
         }
         canVote = true;
     }
