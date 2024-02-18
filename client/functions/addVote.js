@@ -1,7 +1,7 @@
 const addVote = async (characterId, count) => {
     if(count.count === 0 || characterId !== count.character) return;
     try {
-        const response = await fetch('http://localhost:5000/api/vote', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/vote', {
             method: 'POST', 
             headers: {
                 'Content-Type': 'application/json',

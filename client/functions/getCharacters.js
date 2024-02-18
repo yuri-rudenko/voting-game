@@ -1,6 +1,6 @@
 const getCharacters = async (usedCharacters) => {
     try {
-        const response = await fetch('http://localhost:5000/api/characters', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/characters', {
             method: 'PUT', 
             headers: {
                 'Content-Type': 'application/json'
