@@ -82,7 +82,7 @@ class DeviceController {
 
             const character = await Character.findByIdAndUpdate(
                 characterId,
-                { $inc: { votesNumber: 1 }, $push: { votes: vote._id } },
+                { $inc: { votesNumber: 1 } },
                 { new: true }
             );
 

@@ -79,6 +79,10 @@ body, html {
     height: 250px;
 }
 
+.winner {
+    animation: winner;
+    animation-duration: 0.5s;
+}
 
 @keyframes top-anim {
     0% {top: -50%}
@@ -91,3 +95,8 @@ body, html {
     70% {bottom: 0%}
     100% {bottom: 0%}
 } 
+
+@keyframes winner {
+    0% {transform: scale(1); opacity: 100%;}
+    100% {transform: scale(2); opacity: 0%;}
+}

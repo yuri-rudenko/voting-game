@@ -11,29 +11,83 @@ const bottomEl = document.querySelector('.bottom');
 let characters = []
 let usedCharacters = []
 let loading = false
+let count = {
+    character: '',
+    count: 0
+}
+
+let canVote = false;
 
 function playAnimation(element, animation) {
     if(loading) return
+    
     element.classList.add(`${animation}`);
     element.addEventListener('animationend', onAnimationEnd);
+
+    if(element.classList.contains('top')) {
+
+        const id = bottomActiveEl.querySelector('.id').classList[1];
+
+        if(count.character === id) {
+            if(count.count >= 4) {
+                count.count = 0;
+                playAnimation(bottomEl, 'bottom-anim');
+                bottomActiveEl.querySelector('img').classList.add('winner');
+            }
+            else {
+                count.count +=1;
+            }
+        }
+        else {
+            count.count = 1;
+            count.character = id;
+        }
+
+    }
+    else {
+        const id = topActiveEl.querySelector('.id').classList[1];
+
+        if(count.character === id) {
+            if(count.count >= 4) {
+                count.count = 0;
+                playAnimation(topEl, 'top-anim');
+                topActiveEl.querySelector('img').classList.add('winner');
+            }
+            else {
+                count.count +=1;
+            }
+        }
+        else {
+            count.count = 1;
+            count.character = id;
+        }
+    }
+
 }
 
 async function onAnimationEnd(event) {
     if (event.animationName === 'top-anim' || event.animationName === 'bottom-anim') {
         const el = event.target;
         el.classList.remove(`${event.animationName}`);
-        loading = true
         if(el.classList.contains('top')) {
             /// bottom wins
             topActiveEl.innerHTML = el.innerHTML;
-            await addVote(bottomActiveEl.querySelector('.id').classList[1])
+            const id = bottomActiveEl.querySelector('.id').classList[1];
+
+            loading = true
+
+            await addVote(id)
         }
         else {
             bottomActiveEl.innerHTML = el.innerHTML;
-            await addVote(topActiveEl.querySelector('.id').classList[1])
+            const id = topActiveEl.querySelector('.id').classList[1];
+
+            loading = true
+
+            await addVote(id)
         }
-        loading = false
-        console.log(characters)
+
+        loading = false;
         characters = addCharacter(el, characters);
         if(characters.length <= 4) {
             const newCharacters = await getCharacters(usedCharacters)
@@ -58,10 +112,9 @@ async function loadCharacters() {
         characters = await getCharacters();
         usedCharacters.push(...characters);
         if(usedCharacters.length >= 700) usedCharacters = [];
-        console.log(characters);
 
-        bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim', characters));
-        topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim', characters));
+        bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim'));
+        topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim'));
 
         addFirstCharacters();
     } catch (error) {
