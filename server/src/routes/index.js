@@ -3,7 +3,7 @@ import gameController from "../controllers/gameController.js";
 
 const router = new Router();
 
-router.get('/characters', gameController.getCharacters);
+router.put('/characters', gameController.getCharacters);
 router.post('/character', gameController.postCharacter);
 // router.post('/characters', gameController.postCharacters);
 router.post('/vote', gameController.postVote);

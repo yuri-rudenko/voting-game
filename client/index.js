@@ -8,13 +8,14 @@ const topEl = document.querySelector('.top');
 const bottomEl = document.querySelector('.bottom');
 
 let characters = []
+let usedCharacters = []
 
 function playAnimation(element, animation) {
-    element.classList.add(`${animation}`) 
+    element.classList.add(`${animation}`) ;
     element.addEventListener('animationend', onAnimationEnd);
 }
 
-function onAnimationEnd(event) {
+async function onAnimationEnd(event) {
     if (event.animationName === 'top-anim' || event.animationName === 'bottom-anim') {
         const el = event.target;
         el.classList.remove(`${event.animationName}`);
@@ -26,7 +27,10 @@ function onAnimationEnd(event) {
         }
         console.log(characters)
         characters = addCharacter(el, characters);
-        
+        if(characters.length <= 4) {
+            const newCharacters = await getCharacters(usedCharacters)
+            characters.push(...newCharacters)
+        }
     }
 }
 
@@ -44,6 +48,8 @@ function addFirstCharacters() {
 async function loadCharacters() {
     try {
         characters = await getCharacters();
+        usedCharacters.push(...characters);
+        if(usedCharacters.length >= 700) usedCharacters = [];
         console.log(characters);
 
         bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim', characters));

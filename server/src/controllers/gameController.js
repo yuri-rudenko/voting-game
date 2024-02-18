@@ -7,11 +7,13 @@ class DeviceController {
         try {
             
             const {usedCharacters} = req.body;
+            
             let newCharacters;
 
             if(usedCharacters) {
+                const usedCharactersIds = usedCharacters.map(char => char._id)
                 newCharacters = await Character.aggregate([
-                    { $match: { _id: { $nin: usedCharacters } } },
+                    { $match: { _id: { $nin: usedCharactersIds } } },
                     { $sample: { size: 20 } }
                 ]);
             }
