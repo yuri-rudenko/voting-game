@@ -1,4 +1,4 @@
-import { Character } from "../models/models.js";
+import { Character, Vote } from "../models/models.js";
 
 class ResultsController {
 
@@ -18,6 +18,28 @@ class ResultsController {
         catch (error) {
             res.status(500).json({ error: error.message });
         }
+    }
+    async getCharacter(req, res) {
+        try {
+            
+            const {id} = req.params;
+
+            const char = await Character.findById(id)
+
+            res.json(char);
+
+        } 
+        catch (error) {
+            res.status(500).json({ error: error.message });
+        }
+    }
+
+    async getLastVotes(req, res) {
+        const {number} = req.params;
+
+        const char = await Vote.find().sort({ createdAt: -1 }).limit(number);
+
+        res.json(char);
     }
 }
 
