@@ -10,8 +10,10 @@ const bottomEl = document.querySelector('.bottom');
 
 let characters = []
 let usedCharacters = []
+let loading = false
 
 function playAnimation(element, animation) {
+    if(loading) return
     element.classList.add(`${animation}`);
     element.addEventListener('animationend', onAnimationEnd);
 }
@@ -20,6 +22,7 @@ async function onAnimationEnd(event) {
     if (event.animationName === 'top-anim' || event.animationName === 'bottom-anim') {
         const el = event.target;
         el.classList.remove(`${event.animationName}`);
+        loading = true
         if(el.classList.contains('top')) {
             /// bottom wins
             topActiveEl.innerHTML = el.innerHTML;
@@ -29,6 +32,7 @@ async function onAnimationEnd(event) {
             bottomActiveEl.innerHTML = el.innerHTML;
             await addVote(topActiveEl.querySelector('.id').classList[1])
         }
+        loading = false
         console.log(characters)
         characters = addCharacter(el, characters);
         if(characters.length <= 4) {
@@ -61,7 +65,7 @@ async function loadCharacters() {
 
         addFirstCharacters();
     } catch (error) {
-        console.error(error);
+        alert(error.message);
     }
 }
 

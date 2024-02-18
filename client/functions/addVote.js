@@ -3,9 +3,11 @@ const addVote = async (characterId) => {
         const response = await fetch('http://localhost:5000/api/vote', {
             method: 'POST', 
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${characterId}`
             },
             body: JSON.stringify({ characterId }) 
+            
         });
 
         if (!response.ok) {
@@ -14,7 +16,7 @@ const addVote = async (characterId) => {
         const data = await response.json();
         return data;
     } catch (error) {
-        console.error(error);
+        alert(error.message);
     }
 }
 

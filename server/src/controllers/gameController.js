@@ -86,7 +86,7 @@ class DeviceController {
                 { new: true }
             );
 
-            res.json(vote)
+            res.json({vote, votesNumber: character.votesNumber})
         } 
         catch (error) {
             res.status(500).json({ error: error.message });
