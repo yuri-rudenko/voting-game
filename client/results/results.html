@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./resultsStyle.css">
+</head>
+<body>
+    <template class="result">
+            <div class="character-container character">
+                <div class="left">
+                    <div class="place"></div>
+                    <div class="img-container">
+                        <img src="" alt="Char">
+                    </div>
+                    <div class="name"></div>
+                    <div class="title"></div>
+                </div>
+                <div class="right">
+                    <div class="votesNumber"></div>
+                    <div class="popularity"></div>
+                </div>
+            </div>
+    </template>
+    <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+    <div class="container" style="display: none;">
+        <div class="character-container topper">
+            <div class="left">
+                <div class="place">PLACE</div>
+                <div class="image">IMAGE</div>
+                <div class="name">NAME</div>
+                <div class="title">TITLE</div>
+            </div>
+            <div class="right">
+                <div class="votesNumber">VOTES</div>
+                <div class="popularity">MAL №</div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="./results.js"></script>
+</body>
+</html>

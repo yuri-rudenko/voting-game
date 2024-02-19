@@ -84,6 +84,15 @@ body, html {
     animation-duration: 0.5s;
 }
 
+.results {
+    position: absolute;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+}
+
 @keyframes top-anim {
     0% {top: -50%}
     80% {top: 0%}

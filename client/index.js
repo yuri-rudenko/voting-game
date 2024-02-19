@@ -67,20 +67,6 @@ function playAnimation(element, animation) {
         }
     }
 }
-
-function hasDuplicateIds(characters) {
-    const idMap = new Map();
-    
-    for (const character of characters) {
-      if (idMap.has(character._id)) {
-        return true; // Duplicate _id found
-      } else {
-        idMap.set(character._id, true);
-      }
-    }
-    
-    return false; // No duplicate _id found
-  }
   
 
 async function onAnimationEnd(event) {
@@ -131,6 +117,8 @@ async function loadCharacters() {
 
         bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim'));
         topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim'));
+
+        // document.querySelector('.results').addEventListener('click', () =>  window.location.href = './results/results.html')
 
         addFirstCharacters();
     } catch (error) {
