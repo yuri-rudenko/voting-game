@@ -68,6 +68,21 @@ function playAnimation(element, animation) {
     }
 }
 
+function hasDuplicateIds(characters) {
+    const idMap = new Map();
+    
+    for (const character of characters) {
+      if (idMap.has(character._id)) {
+        return true; // Duplicate _id found
+      } else {
+        idMap.set(character._id, true);
+      }
+    }
+    
+    return false; // No duplicate _id found
+  }
+  
+
 async function onAnimationEnd(event) {
     if (event.animationName === 'top-anim' || event.animationName === 'bottom-anim') {
         const el = event.target;

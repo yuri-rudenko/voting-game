@@ -32,11 +32,11 @@ body, html {
 }
 
 .top-anim {
-    animation: top-anim 1s;
+    animation: top-anim 0.5s;
 }
 
 .bottom-anim {
-    animation: bottom-anim 1s;
+    animation: bottom-anim 0.5s;
 }
 
 .background-container {
@@ -86,13 +86,13 @@ body, html {
 
 @keyframes top-anim {
     0% {top: -50%}
-    70% {top: 0%}
+    80% {top: 0%}
     100% {top: 0%}
 } 
 
 @keyframes bottom-anim {
     0% {bottom: -50%}
-    70% {bottom: 0%}
+    80% {bottom: 0%}
     100% {bottom: 0%}
 } 
 

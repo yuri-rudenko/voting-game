@@ -11,9 +11,9 @@ class DeviceController {
             let newCharacters;
 
             if(usedCharacters) {
-                const usedCharactersIds = usedCharacters.map(char => char._id)
+                const usedCharactersImgs = usedCharacters.map(char => char.img)
                 newCharacters = await Character.aggregate([
-                    { $match: { _id: { $nin: usedCharactersIds } } },
+                    { $match: { img: { $nin: usedCharactersImgs } } },
                     { $sample: { size: 20 } }
                 ]);
             }
