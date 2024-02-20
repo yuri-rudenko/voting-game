@@ -41,6 +41,16 @@ class ResultsController {
 
         res.json(char);
     }
+    async getVotesAmount(req, res) {
+        try {
+            const count = await Vote.countDocuments(); 
+
+            res.json(count);
+        } 
+        catch (error) {
+            res.status(500).json({ error: 'Internal Server Error' });
+        }
+    }
 }
 
 export default new ResultsController()

@@ -2,10 +2,11 @@ const character = document.querySelector('.result');
 const container = document.querySelector('.container');
 const loader = document.querySelector('.lds-ring');
 const input = document.querySelector('.search-character');
-const returnButton = document.querySelector('.return-to-votes')
+const returnButton = document.querySelector('.return-to-votes');
+const totalVotes = document.querySelector('.total-votes');
 
-let characters = []
-let curCharacters = []
+let characters = [];
+let curCharacters = [];
 
 function clearBody() {
 
@@ -30,6 +31,27 @@ const setCurCharacters = (name) => {
 
 }
 
+const getVotesNumber = async () => {
+    try {
+        const response = await fetch('https://voting-game.onrender.com' + '/results/votes', {
+            method: 'GET', 
+            headers: {
+                'Content-Type': 'application/json'
+            },
+        })
+        
+        if (!response.ok) {
+            throw new Error('Failed to fetch votes');
+        }
+        const data = await response.json();
+
+        return data;
+    }
+
+    catch (error) {
+        console.error(error)
+    }
+}
 
 const getCharacters = async () => {
 
@@ -64,6 +86,10 @@ const addCharacters = (characters) => {
         if(element.place >= 1000) place.classList.add('fs-20')
         else if(element.place >= 100) place.classList.add('fs-26')
         else place.classList.add('fs-36')
+
+        if(element.place === 1) place.classList.add('c-gold');
+        if(element.place === 2) place.classList.add('c-silver');
+        if(element.place === 3) place.classList.add('c-bronze');
         place.innerHTML = element.place;
 
         characterClone.querySelector('img').src = element.img;
@@ -95,6 +121,7 @@ const start = async () => {
     });
     if(characters) addCharacters(characters);
     setCurCharacters()
+    totalVotes.innerHTML = `TOTAL VOTES: ${await getVotesNumber()}`
     loader.style.display = 'none';
     container.style.display = 'block';
 }

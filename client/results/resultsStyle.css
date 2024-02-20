@@ -98,15 +98,6 @@ img {
     z-index: 1000; 
 }
 
-.container .character-container:nth-child(3) .place {
-    color: gold;
-}
-.container .character-container:nth-child(4) .place {
-    color: silver;
-}
-.container .character-container:nth-child(5) .place {
-    color: rgb(165, 97, 42);
-}
 .container .character-container:nth-child(5n-4) {
     
     background-color: lightcoral;
@@ -125,6 +116,16 @@ img {
 }
 .container .character-container:nth-child(1) {
     background-color: white;
+}
+
+.c-gold {
+    color: gold;
+}
+.c-silver {
+    color: silver;
+}
+.c-bronze {
+    color: rgb(165, 97, 42);
 }
 
 .fs-13 {
@@ -159,7 +160,10 @@ img {
     font-size: 18px;
     text-align: left;
 }
-
+.total-votes {
+    margin: 5px;
+    font-size: 20px;
+}
 
 
 
