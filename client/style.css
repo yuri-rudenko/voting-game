@@ -87,11 +87,11 @@ body, html {
 .results {
     position: absolute;
     z-index: 100;
-    font-size: 16px;
+    font-size: 14px;
     color: white;
-    background: rgba(0, 0, 244, 0.7);
-    top: 5px;
-    left: 5px;
+    background: rgba(0, 0, 244, 0.6);
+    top: 2px;
+    left: 2px;
     padding: 2px;
 }
 
