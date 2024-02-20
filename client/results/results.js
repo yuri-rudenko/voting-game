@@ -1,7 +1,8 @@
 const character = document.querySelector('.result');
 const container = document.querySelector('.container');
 const loader = document.querySelector('.lds-ring');
-const input = document.querySelector('.search-character')
+const input = document.querySelector('.search-character');
+const returnButton = document.querySelector('.return-to-votes')
 
 let characters = []
 let curCharacters = []
@@ -99,5 +100,6 @@ const start = async () => {
 }
 
 input.addEventListener('input', (e) => setCurCharacters(e.target.value));
+returnButton.addEventListener('click', () => window.location.href = '../index.html')
 
 start()

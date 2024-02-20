@@ -140,10 +140,23 @@ img {
     font-size: 36px;
 }
 
-.search-character {
-    width: 90%;
+
+.top-inputs {
+    display: flex;
+    justify-content: center;
     margin: 10px 0px;
-    font-size: 20px;
+}
+.top-inputs .return-to-votes {
+    width: 20%;
+    margin-right: 10px;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+}
+.top-inputs .search-character {
+    width: 73%;
+    padding: 5px 20px;
+    font-size: 18px;
     text-align: left;
 }
 
@@ -157,7 +170,7 @@ img {
     width: 80px;
     height: 80px;
     top: 45%;
-    left: 45%;
+    left: 40%;
   }
   .lds-ring div {
     box-sizing: border-box;

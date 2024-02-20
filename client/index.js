@@ -118,7 +118,7 @@ async function loadCharacters() {
         bottomActiveEl.addEventListener('click', () => playAnimation(topEl, 'top-anim'));
         topActiveEl.addEventListener('click', () => playAnimation(bottomEl, 'bottom-anim'));
 
-        // document.querySelector('.results').addEventListener('click', () =>  window.location.href = './results/results.html')
+        document.querySelector('.results').addEventListener('click', () =>  window.location.href = './results/results.html')
 
         addFirstCharacters();
     } catch (error) {
