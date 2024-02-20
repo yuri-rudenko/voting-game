@@ -1,15 +1,40 @@
 const character = document.querySelector('.result');
 const container = document.querySelector('.container');
 const loader = document.querySelector('.lds-ring');
+const input = document.querySelector('.search-character')
 
 let characters = []
+let curCharacters = []
+
+function clearBody() {
+
+    const characters = document.querySelectorAll('.character');
+    characters.forEach((char) => {
+        char.remove()
+    })
+
+}
+
+const setCurCharacters = (name) => {
+    if(!name) {
+        curCharacters = characters;
+        clearBody();
+        addCharacters(curCharacters);
+        return;
+    }
+    curCharacters = characters.filter(char => char.name.toLowerCase().includes(name.toLowerCase()) || char.title.includes(name));
+    clearBody();
+
+    addCharacters(curCharacters);
+
+}
 
 
 const getCharacters = async () => {
 
     try {
         
-        const response = await fetch('https://voting-game.onrender.com' + '/api/results/top/1', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/results/top/1000', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
@@ -31,15 +56,14 @@ const getCharacters = async () => {
 
 const addCharacters = (characters) => {
 
-    characters.forEach((element, index) => {
+    characters.forEach((element) => {
         const characterClone = document.importNode(character.content, true);
 
         const place = characterClone.querySelector('.place')
-        if(index+1 >= 1000) place.classList.add('fs-20')
-        else if(index+1 >= 100) place.classList.add('fs-26')
+        if(element.place >= 1000) place.classList.add('fs-20')
+        else if(element.place >= 100) place.classList.add('fs-26')
         else place.classList.add('fs-36')
-        place.innerHTML = index+1;
-
+        place.innerHTML = element.place;
 
         characterClone.querySelector('img').src = element.img;
 
@@ -65,9 +89,15 @@ const addCharacters = (characters) => {
 
 const start = async () => {
     characters = await getCharacters();
+    characters = characters.map((char, index) => {
+        return { ...char, place: index + 1 };
+    });
     if(characters) addCharacters(characters);
+    setCurCharacters()
     loader.style.display = 'none';
     container.style.display = 'block';
 }
+
+input.addEventListener('input', (e) => setCurCharacters(e.target.value));
 
 start()

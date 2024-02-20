@@ -3,6 +3,7 @@
     padding: 0;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    box-sizing: border-box;
 }
 
 img {
@@ -25,9 +26,12 @@ img {
     width: 24%;
 }
 .container .character-container .left > div {
-    padding-top: 20px;
+    padding: 10px 0px;
     border-right: 2px solid black;
     height: 100%;
+    display: flex;
+    align-items: center;
+    justify-self: center;
 }
 .container .character-container .left > img {
     border-right: 2px solid black;
@@ -35,31 +39,47 @@ img {
 }
 
 .container .character-container .left .place {
+    display: flex;
+    justify-content: center;
     width: 20%;
 }
 .container .character-container .left .name {
+    display: flex;
+    justify-content: center;
     word-wrap: break-word;
     width: 25%;
 }
 .container .character-container .left .image {
+    display: flex;
+    justify-content: center;
     width: 20%;
 }
 .container .character-container .left .img-container {
+    padding: 0;
+    display: flex;
+
+    align-items: center;
     width: 20%;
 }
 .container .character-container .left .title {
+    display: flex;
+    justify-content: center;
     word-wrap: break-word;
     width: 35%;
 }
 .container .character-container .right .votesNumber {
-    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-right: 2px solid black;
     height: 100%;
     width: 60%;
 }
 .container .character-container .right .popularity {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 100%;
-    padding-top: 20px;
     width: 40%;
 }
 .container .character-container {
@@ -72,18 +92,19 @@ img {
 }
 
 .container .topper {
+    border-top: 2px solid black;
     position: sticky;
     top: 0;
     z-index: 1000; 
 }
 
-.container .character-container:nth-child(2) .place {
+.container .character-container:nth-child(3) .place {
     color: gold;
 }
-.container .character-container:nth-child(3) .place {
+.container .character-container:nth-child(4) .place {
     color: silver;
 }
-.container .character-container:nth-child(4) .place {
+.container .character-container:nth-child(5) .place {
     color: rgb(165, 97, 42);
 }
 .container .character-container:nth-child(5n-4) {
@@ -119,7 +140,12 @@ img {
     font-size: 36px;
 }
 
-
+.search-character {
+    width: 90%;
+    margin: 10px 0px;
+    font-size: 20px;
+    text-align: left;
+}
 
 
 
