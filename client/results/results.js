@@ -33,13 +33,13 @@ const setCurCharacters = (name) => {
 
 const getVotesNumber = async () => {
     try {
-        const response = await fetch('https://voting-game.onrender.com' + '/results/votes', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/results/votes', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
             },
         })
-        
+
         if (!response.ok) {
             throw new Error('Failed to fetch votes');
         }
