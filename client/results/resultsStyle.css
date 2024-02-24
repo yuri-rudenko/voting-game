@@ -173,8 +173,9 @@ img {
     position: absolute;
     width: 80px;
     height: 80px;
-    top: 45%;
-    left: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
   .lds-ring div {
     box-sizing: border-box;
