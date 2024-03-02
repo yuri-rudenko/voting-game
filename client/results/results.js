@@ -33,8 +33,7 @@ const setCurCharacters = (name) => {
 
 const getVotesNumber = async () => {
     try {
-        // https://voting-game.onrender.com
-        const response = await fetch('http://localhost:5000' + '/api/results/votes', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/results/votes', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
@@ -57,7 +56,7 @@ const getVotesNumber = async () => {
 const getLatestVotesNumber = async () => {
     try {
         // https://voting-game.onrender.com
-        const response = await fetch('http://localhost:5000' + '/api/results/lastvotes', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/results/lastvotes', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
@@ -81,7 +80,7 @@ const getCharacters = async () => {
 
     try {
         
-        const response = await fetch('http://localhost:5000' + '/api/results/top/1000', {
+        const response = await fetch('https://voting-game.onrender.com' + '/api/results/top/1000', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
