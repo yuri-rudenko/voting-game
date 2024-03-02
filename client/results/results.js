@@ -33,7 +33,31 @@ const setCurCharacters = (name) => {
 
 const getVotesNumber = async () => {
     try {
-        const response = await fetch('https://voting-game.onrender.com' + '/api/results/votes', {
+        // https://voting-game.onrender.com
+        const response = await fetch('http://localhost:5000' + '/api/results/votes', {
+            method: 'GET', 
+            headers: {
+                'Content-Type': 'application/json'
+            },
+        })
+
+        if (!response.ok) {
+            throw new Error('Failed to fetch votes');
+        }
+        const data = await response.json();
+
+        return data;
+    }
+
+    catch (error) {
+        console.error(error)
+    }
+}
+
+const getLatestVotesNumber = async () => {
+    try {
+        // https://voting-game.onrender.com
+        const response = await fetch('http://localhost:5000' + '/api/results/lastvotes', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
@@ -57,7 +81,7 @@ const getCharacters = async () => {
 
     try {
         
-        const response = await fetch('https://voting-game.onrender.com' + '/api/results/top/1000', {
+        const response = await fetch('http://localhost:5000' + '/api/results/top/1000', {
             method: 'GET', 
             headers: {
                 'Content-Type': 'application/json'
@@ -121,7 +145,7 @@ const start = async () => {
     });
     if(characters) addCharacters(characters);
     setCurCharacters()
-    totalVotes.innerHTML = `TOTAL VOTES: ${await getVotesNumber()}`
+    totalVotes.innerHTML = `TOTAL VOTES: ${await getVotesNumber()} | VOTES IN THE LAST 24 HOURS: ${await getLatestVotesNumber()}`
     loader.style.display = 'none';
     container.style.display = 'block';
 }

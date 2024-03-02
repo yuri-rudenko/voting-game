@@ -14,5 +14,6 @@ router.get('/results/top/:number', resultsController.getMostVoted);
 router.get('/results/character/:id', resultsController.getCharacter);
 router.get('/results/votes/:number', resultsController.getLastVotes);
 router.get('/results/votes', resultsController.getVotesAmount);
+router.get('/results/lastvotes', resultsController.getLatestVotesAmount);
 
 export default router;

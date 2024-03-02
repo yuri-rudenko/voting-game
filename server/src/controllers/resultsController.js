@@ -41,6 +41,7 @@ class ResultsController {
 
         res.json(char);
     }
+
     async getVotesAmount(req, res) {
         try {
             const count = await Vote.countDocuments(); 
@@ -48,6 +49,19 @@ class ResultsController {
             res.json(count);
         } 
         catch (error) {
+            res.status(500).json({ error: 'Internal Server Error' });
+        }
+    }
+
+    async getLatestVotesAmount(req, res) {
+        try {
+
+            const last24HoursStartTime = new Date(Date.now() - 24 * 60 * 60 * 1000);
+    
+            const count = await Vote.countDocuments({ createdAt: { $gte: last24HoursStartTime } });
+    
+            res.json(count);
+        } catch (error) {
             res.status(500).json({ error: 'Internal Server Error' });
         }
     }
